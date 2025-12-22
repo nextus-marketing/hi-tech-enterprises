@@ -40,67 +40,89 @@
 
 	<!-- Work Section -->
 	<section class="work-section">
-		<div class="anim-icons full-width">
-			<span class="icon shape-1 bounce-y"></span>
+	<div class="anim-icons full-width">
+		<span class="icon shape-1 bounce-y"></span>
+	</div>
+	<div class="auto-container">
+		<div class="sec-title style-two text-center wow fadeInUp">
+			<span class="sub-title">Our Working Process</span>
+			<h2>Delivering Advanced Machinery Solutions <br>With Precision & Performance</h2>
 		</div>
-		<div class="auto-container">
-			<div class="sec-title style-two text-center wow fadeInUp">
-				<span class="sub-title">Working Process</span>
-				<h2>Global Logistics Partner To World’s Famous <br>Brands For Over 75 Years!</h2>
-			</div>
 
-			<div class="outer-box">
-				<div class="inner-outer">
-					<div class="row">
-						
-						<!-- Service Block Five -->
-						<div class="work-block col-lg-3 col-md-6 col-sm-12 wow fadeInUp">
-							<div class="inner-box ">
-								<div class="icon-box">
-									<i class="icon flaticon-logistics-delivery-6"></i>
-								</div>
-								<h4 class="title"><a href="#0">Order Processing</a></h4>
-								<div class="text">The logistics process begins with <br> the receipt of customer...</div>
+		<div class="outer-box">
+			<div class="inner-outer">
+				<div class="row">
+					
+					<!-- Work Block -->
+					<div class="work-block col-lg-3 col-md-6 col-sm-12 wow fadeInUp">
+						<div class="inner-box">
+							<div class="icon-box">
+								<i class="icon fas fa-search"></i>
 							</div>
-						</div>
-						
-						<!-- Service Block Five -->
-						<div class="work-block col-lg-3 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="300ms">
-							<div class="inner-box ">
-								<div class="icon-box">
-									<i class="icon flaticon-container-2"></i>
-								</div>
-								<h4 class="title"><a href="#0">Warehousing</a></h4>
-								<div class="text">Goods that are ready for shipment <br> are stored in warehouses or...</div>
-							</div>
-						</div>
-						
-						<!-- Service Block Five -->
-						<div class="work-block col-lg-3 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="600ms">
-							<div class="inner-box ">
-								<div class="icon-box">
-									<i class="icon flaticon-stock-1"></i>
-								</div>
-								<h4 class="title"><a href="#0">Order Tracking</a></h4>
-								<div class="text">Real-time tracking systems are <br> used to monitor the...</div>
-							</div>
-						</div>
-						
-						<!-- Service Block Five -->
-						<div class="work-block col-lg-3 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="900ms">
-							<div class="inner-box ">
-								<div class="icon-box">
-									<i class="icon flaticon-delivery-box-4"></i>
-								</div>
-								<h4 class="title"><a href="#0">Product Delivery</a></h4>
-								<div class="text">In the final stage of logistics <br> services, the</div>
+							<h4 class="title">
+								<a href="#0">Requirement Analysis</a>
+							</h4>
+							<div class="text">
+								We understand your project needs to recommend the right machinery
+								for maximum efficiency and performance.
 							</div>
 						</div>
 					</div>
+					
+					<!-- Work Block -->
+					<div class="work-block col-lg-3 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="300ms">
+						<div class="inner-box">
+							<div class="icon-box">
+								<i class="icon fas fa-industry"></i>
+							</div>
+							<h4 class="title">
+								<a href="#0">Machinery Manufacturing</a>
+							</h4>
+							<div class="text">
+								High-quality machinery engineered using advanced technology,
+								strict standards, and precision manufacturing.
+							</div>
+						</div>
+					</div>
+					
+					<!-- Work Block -->
+					<div class="work-block col-lg-3 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="600ms">
+						<div class="inner-box">
+							<div class="icon-box">
+								<i class="icon flaticon-checklist"></i>
+							</div>
+							<h4 class="title">
+								<a href="#0">Quality Testing</a>
+							</h4>
+							<div class="text">
+								Every machine undergoes rigorous testing to ensure safety,
+								reliability, and long-term operational excellence.
+							</div>
+						</div>
+					</div>
+					
+					<!-- Work Block -->
+					<div class="work-block col-lg-3 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="900ms">
+						<div class="inner-box">
+							<div class="icon-box">
+								<i class="icon flaticon-settings"></i>
+							</div>
+							<h4 class="title">
+								<a href="#0">Installation & Support</a>
+							</h4>
+							<div class="text">
+								Professional installation, commissioning, and ongoing support
+								to keep your operations running smoothly.
+							</div>
+						</div>
+					</div>
+
 				</div>
 			</div>
 		</div>
-	</section>
+	</div>
+</section>
+
 	<!-- End Work Section-->
 
 	<!-- About Section -->
@@ -233,290 +255,92 @@
 </script>
 
 
+
+<section class="news-section pb-10">
+    <div class="auto-container">
+		<div class="sec-title wow fadeInUp">
+				<span class="sub-title">Top Equipment for Sale</span>
+				<h2>Premium heavy equipment for sale</h2>
+			</div>
+			<div class="row">
+				<!-- News Block -->
+				<div class="news-block col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="200ms">
+					<div class="inner-box">
+						<div class="image-box">
+							<figure class="image"><a href="#0"><img src="/frontend/my-img/1.webp" alt=""></a></figure>
+						</div>
+						<div class="content-box">
+							<ul class="post-info">
+								<li><i class="fa-solid fa-droplet"></i>Disel</li>
+								<li><i class="fa-solid fa-truck"></i>Used</li>
+								<li><i class="fa-solid fa-calendar"></i>2020</li>
+							</ul>
+							<h4 class="title"><a href="#0">Motor Grader 740 A</a></h4>
+						</div>
+					</div>
+				</div>
+				<!-- News Block -->
+				<div class="news-block col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="300ms">
+					<div class="inner-box">
+						<div class="image-box">
+							<figure class="image"><a href="#0"><img src="/frontend/my-img/2.webp" alt=""></a></figure>
+						</div>
+						<div class="content-box">
+							<ul class="post-info">
+								<li><i class="fa-solid fa-droplet"></i>Disel</li>
+								<li><i class="fa-solid fa-truck"></i>Used</li>
+								<li><i class="fa-solid fa-calendar"></i>2020</li>
+							</ul>
+							<h4 class="title"><a href="#0">Hyundai Chain Excavator 220</a></h4>
+						</div>
+					</div>
+					
+				</div>
+
+				<div class="news-block col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="300ms">
+					<div class="inner-box">
+						<div class="image-box">
+							<figure class="image"><a href="#0"><img src="/frontend/my-img/4.webp" alt=""></a></figure>
+						</div>
+						<div class="content-box">
+							<ul class="post-info">
+								<li><i class="fa-solid fa-droplet"></i>Disel</li>
+								<li><i class="fa-solid fa-truck"></i>Used</li>
+								<li><i class="fa-solid fa-calendar"></i>2020</li>
+							</ul>
+							<h4 class="title"><a href="#0">6 Wheel Tipper Truck</a></h4>
+						</div>
+					</div>
+				</div>
+			</div>
+    </div>
+  </section>
+
+
+
 	<!-- Call To Action -->
 	<section class="call-to-action">
-		<div class="bg bg-image" style="background-image: url(/frontend/images/background/1.jpg);"></div>
-		<div class="auto-container">
-			<div class="title-box wow zoomIn">
-				<div class="logo-box"><img src="/frontend/images/logo.png" alt=""></div>
-				<h2 class="title">World’s Leading Contract Logistics Provider</h2>
-				<div class="text">TranSend is the world’s driving worldwide coordinations supplier — we uphold industry <br>and exchange the worldwide trade.</div>
-				<a href="#0" class="theme-btn btn-style-one hvr-light"><i class="icon fa fas fa-plus"></i><span class="btn-title">Connect With Us</span></a>
+	<div class="bg bg-image" style="background-image: url(/frontend/images/background/1.jpg);"></div>
+	<div class="auto-container">
+		<div class="title-box wow zoomIn">
+			<div class="logo-box">
+				<img src="/frontend/images/logo.png" alt="Hi Tech Enterprises Logo">
 			</div>
+			<h2 class="title">Driving Innovation in Industrial Machinery</h2>
+			<div class="text">
+				Hi Tech Enterprises delivers advanced construction and industrial machinery
+				engineered for performance, reliability, and long-term productivity.
+			</div>
+			<a href="/contact-us" class="theme-btn btn-style-one hvr-light">
+				<i class="icon fa fas fa-plus"></i>
+				<span class="btn-title">Connect With Us</span>
+			</a>
 		</div>
-	</section>
+	</div>
+</section>
+
 	<!--End Call To Action -->
 
-	<!-- Services Section -->
-	<section class="services-section">
-		<div class="auto-container">
-			<div class="sec-title wow fadeInUp">
-				<span class="sub-title">Service We Provide</span>
-				<h2>Our Services To Explore</h2>
-			</div>
-
-			<div class="carousel-outer style-two">
-				<!-- Swiper -->
-				<div class="swiper service-slider">
-					<div class="swiper-wrapper">
-						<div class="swiper-slide">
-
-							<!-- Services Block -->
-							<div class="services-block">
-								<div class="inner-box">
-									<div class="content-box">
-										<span class="sub-title">Service 1</span>
-										<h4 class="title"><a href="#0">Ocean Freight</a></h4>
-										<div class="text">We’ll keep your items damage <br>free solution</div>
-										<ul class="list-style-two">
-											<li>Flexibility & Versatility</li>
-											<li>Controlled Environment</li>
-											<li>Speed and Efficiency</li>
-										</ul>
-										<a href="#0" class="theme-btn btn-style-one"><i class="icon fa fas fa-plus"></i><span class="btn-title">Read Details</span></a>
-									</div>
-									<div class="image-box">
-										<figure class="image mb-0"><a href="#0"><img src="/frontend/images/resource/service-1.jpg" alt=""></a></figure>
-									</div>
-								</div>
-							</div>
-						</div>
-						<div class="swiper-slide">
-
-							<!-- Services Block -->
-							<div class="services-block">
-								<div class="inner-box">
-									<div class="content-box">
-										<span class="sub-title">Service 2</span>
-										<h4 class="title"><a href="#0">Train Freight</a></h4>
-										<div class="text">We’ll keep your items damage <br>free solution</div>
-										<ul class="list-style-two">
-											<li>Flexibility & Versatility</li>
-											<li>Controlled Environment</li>
-											<li>Speed and Efficiency</li>
-										</ul>
-										<a href="#0" class="theme-btn btn-style-one"><i class="icon fa fas fa-plus"></i><span class="btn-title">Read Details</span></a>
-									</div>
-									<div class="image-box">
-										<figure class="image mb-0"><a href="#0"><img src="/frontend/images/resource/service-2.jpg" alt=""></a></figure>
-									</div>
-								</div>
-							</div>
-						</div>
-						<div class="swiper-slide">
-
-							<!-- Services Block -->
-							<div class="services-block">
-								<div class="inner-box">
-									<div class="content-box">
-										<span class="sub-title">Service 1</span>
-										<h4 class="title"><a href="#0">Ocean Freight</a></h4>
-										<div class="text">We’ll keep your items damage <br>free solution</div>
-										<ul class="list-style-two">
-											<li>Flexibility & Versatility</li>
-											<li>Controlled Environment</li>
-											<li>Speed and Efficiency</li>
-										</ul>
-										<a href="#0" class="theme-btn btn-style-one"><i class="icon fa fas fa-plus"></i><span class="btn-title">Read Details</span></a>
-									</div>
-									<div class="image-box">
-										<figure class="image mb-0"><a href="#0"><img src="/frontend/images/resource/service-1.jpg" alt=""></a></figure>
-									</div>
-								</div>
-							</div>
-						</div>
-						<div class="swiper-slide">
-
-							<!-- Services Block -->
-							<div class="services-block">
-								<div class="inner-box">
-									<div class="content-box">
-										<span class="sub-title">Service 1</span>
-										<h4 class="title"><a href="#0">Ocean Freight</a></h4>
-										<div class="text">We’ll keep your items damage <br>free solution</div>
-										<ul class="list-style-two">
-											<li>Flexibility & Versatility</li>
-											<li>Controlled Environment</li>
-											<li>Speed and Efficiency</li>
-										</ul>
-										<a href="#0" class="theme-btn btn-style-one"><i class="icon fa fas fa-plus"></i><span class="btn-title">Read Details</span></a>
-									</div>
-									<div class="image-box">
-										<figure class="image mb-0"><a href="#0"><img src="/frontend/images/resource/service-1.jpg" alt=""></a></figure>
-									</div>
-								</div>
-							</div>
-						</div>
-						<div class="swiper-slide">
-
-							<!-- Services Block -->
-							<div class="services-block">
-								<div class="inner-box">
-									<div class="content-box">
-										<span class="sub-title">Service 2</span>
-										<h4 class="title"><a href="#0">Train Freight</a></h4>
-										<div class="text">We’ll keep your items damage <br>free solution</div>
-										<ul class="list-style-two">
-											<li>Flexibility & Versatility</li>
-											<li>Controlled Environment</li>
-											<li>Speed and Efficiency</li>
-										</ul>
-										<a href="#0" class="theme-btn btn-style-one"><i class="icon fa fas fa-plus"></i><span class="btn-title">Read Details</span></a>
-									</div>
-									<div class="image-box">
-										<figure class="image mb-0"><a href="#0"><img src="/frontend/images/resource/service-2.jpg" alt=""></a></figure>
-									</div>
-								</div>
-							</div>
-						</div>
-						<div class="swiper-slide">
-
-							<!-- Services Block -->
-							<div class="services-block">
-								<div class="inner-box">
-									<div class="content-box">
-										<span class="sub-title">Service 1</span>
-										<h4 class="title"><a href="#0">Ocean Freight</a></h4>
-										<div class="text">We’ll keep your items damage <br>free solution</div>
-										<ul class="list-style-two">
-											<li>Flexibility & Versatility</li>
-											<li>Controlled Environment</li>
-											<li>Speed and Efficiency</li>
-										</ul>
-										<a href="#0" class="theme-btn btn-style-one"><i class="icon fa fas fa-plus"></i><span class="btn-title">Read Details</span></a>
-									</div>
-									<div class="image-box">
-										<figure class="image mb-0"><a href="#0"><img src="/frontend/images/resource/service-1.jpg" alt=""></a></figure>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-					
-				<!-- If we need navigation buttons -->
-				<div class="swiper-button-prev"></div>
-				<div class="swiper-button-next"></div>
-			</div>
-		</div>
-	</section>
-	<!--End Services Section -->
-
-	<!-- Fun Fact Section -->
-	<section class="fun-fact-section">
-		<div class="outer-box">
-			<div class="anim-icons full-width">
-				<span class="icon shape-3"></span>
-				<span class="icon shape-4"></span>
-			</div>
-			<div class="auto-container">
-				<!-- Fun Fact Area -->
-				<div class="fun-fact-box">
-					<div class="fact-counter">
-						<div class="row">
-
-							<!-- Counter Block-->
-							<div class="counter-block col-xxl-3 col-xl-6 col-md-6 col-sm-12 wow fadeInUp">
-								<div class="inner justify-content-xxl-start justify-content-center">
-									<div class="icon-box">
-										<i class="icon flaticon-delivery-box-4"></i>
-									</div>
-									<div class="content-box">
-										<div class="count-box"><span class="count-text" data-speed="3000" data-stop="20869">0</span>
-										</div>
-										<h6 class="counter-title">Successfully delivery</h6>
-									</div>
-								</div>
-							</div>
-
-							<!-- Counter Block-->
-							<div class="counter-block col-xxl-3 col-xl-6 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="300ms">
-								<div class="inner justify-content-center">
-									<div class="icon-box">
-										<i class="icon flaticon-container-2"></i>
-									</div>
-									<div class="content-box">
-										<div class="count-box"><span class="count-text" data-speed="3000" data-stop="650">0</span></div>
-										<h6 class="counter-title">Supply Engineers</h6>
-									</div>
-								</div>
-							</div>
-
-							<!-- Counter Block-->
-							<div class="counter-block col-xxl-3 col-xl-6 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="600ms">
-								<div class="inner justify-content-center">
-									<div class="icon-box">
-										<i class="icon flaticon-logistics-delivery-6"></i>
-									</div>
-									<div class="content-box">
-										<div class="count-box"><span class="count-text" data-speed="3000" data-stop="145">0</span>
-										</div>
-										<h6 class="counter-title">Countries Covered</h6>
-									</div>
-								</div>
-							</div>
-
-							<!-- Counter Block-->
-							<div class="counter-block col-xxl-3 col-xl-6 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="900ms">
-								<div class="inner justify-content-xxl-end justify-content-center">
-									<div class="icon-box">
-										<i class="icon flaticon-stock-1"></i>
-									</div>
-									<div class="content-box">
-										<div class="count-box"><span class="count-text" data-speed="3000" data-stop="1200">0</span></div>
-										<h6 class="counter-title">Companies We Help</h6>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-
-
-				<!-- Services Area -->
-				<div class="services-box">
-					<div class="row align-items-center">
-
-						<!-- Content Column -->
-						<div class="content-column col-lg-7 col-md-12 order-2 wow fadeInUp" data-wow-delay="300ms">
-							<div class="inner-column">
-								<div class="sec-title light">
-									<span class="sub-title">Digital Freight That Saves Your Time!</span>
-									<h2>Our Main Business Goals</h2>
-								</div>
-
-								<div class="text2">We pride ourselves on providing the best transport and shipping services available allover the world. Our skilled personnel, utilising communications, tracking and processing software, combined with decades of experience! Through integrated supply chain solutions, Equita drives sustainable competitive advantages.</div>
-
-								<div class="text">Our skilled personnel, utilising the latest communications, tracking and processing software, combined with decades of experience! Through integrated supply chain solutions.</div>
-
-								<ul class="list-style-two">
-									<li>100% Satisfaction Guarantee, Accurate Testing Processes.</li>
-									<li>Highly Professional Staff, Professional and Qualified.</li>
-								</ul>
-
-								<a href="#0" class="theme-btn btn-style-one hvr-light"><i class="icon fa fas fa-plus"></i><span class="btn-title">Our Services</span></a>
-							</div>
-						</div>
-
-						<div class="image-column col-lg-5 col-md-12 col-sm-12 order-lg-2 wow fadeInRight" data-wow-delay="600ms">
-							<div class="inner-column">
-								<div class="image-box">
-									<figure class="image overlay-anim"><img src="/frontend/images/resource/service2-1.jpg" alt=""></figure>
-								</div>
-								<div class="experience bounce-y">
-									<div class="inner">
-										<strong>2,896</strong>
-										<div class="text">Packaged Shipped in 2023</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
-	<!-- End Fun Fact Section -->
 
 	<!-- Team Section -->
 	<section class="team-section">
@@ -651,32 +475,99 @@
 	</section>
 	<!-- End Team Section -->
 
-	<!-- Testimonial Section -->
-	<section class="testimonial-section" style="background-image: url(/frontend/images/background/2.jpg)">
-		<div class="auto-container">
-			<div class="row">
+	<section class="testimonial-section-two pb-0">
+	<div class="auto-container">
+		<div class="testimonials">
+			<div class="swiper testimonial-two-slider">
+				<div class="swiper-wrapper">
 
-				<!-- Testimonial Block -->
-				<div class="testimonial-block col-lg-7 offset-xl-5 offset-lg-5 wow fadeInUp">
-					<div class="inner-box">
-						<div class="sec-title light">
-							<span class="sub-title">Our Customer Feedbacks</span>
-							<h3 class="mb-0">Trusted From Over 1,500 Clients</h3>
+					<!-- Testimonial 1 -->
+					<div class="swiper-slide">
+						<div class="testimonial-block-two">
+							<div class="row">
+								<div class="image-column col-lg-6 col-md-12">
+									<figure class="image">
+										<img src="/frontend/my-img/user-2.jpg" alt="Client Review" style="width:551px; zheight:452px; object-fit:cover; object-position:center; display:block;">
+									</figure>
+								</div>
+								<div class="content-column col-lg-6 col-md-12">
+									<span class="icon icon-quote"></span>
+									<div class="text">
+										Hi Tech Enterprises delivered advanced machinery that significantly improved
+										our project efficiency. Their technical support and timely delivery were excellent.
+									</div>
+									<div class="info-box">
+										<h4 class="name">Rajesh Mehta</h4>
+										<div class="designation">Project Manager at <span>Mehta Infra Projects</span></div>
+										<div class="testimonial-pagination"></div>
+									</div>
+								</div>
+							</div>
 						</div>
-						<div class="text">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</div>
-						<div class="info-box">
-							<h6 class="name">Martin Daniel, </h6>
-							<h6 class="designation"> Site Manager</h6>
+					</div>
+
+					<!-- Testimonial 2 -->
+					<div class="swiper-slide">
+						<div class="testimonial-block-two">
+							<div class="row">
+								<div class="image-column col-lg-6 col-md-12">
+									<figure class="image">
+										<img src="/frontend/my-img/user-1.jpg" alt="Client Review" style="width:551px; zheight:452px; object-fit:cover; object-position:center; display:block;">
+									</figure>
+								</div>
+								<div class="content-column col-lg-6 col-md-12">
+									<span class="icon icon-quote"></span>
+									<div class="text">
+										The machinery quality and performance exceeded our expectations.
+										Hi Tech Enterprises understands industrial requirements very well.
+									</div>
+									<div class="info-box">
+										<h4 class="name">Ankit Sharma</h4>
+										<div class="designation">Operations Head at <span>Sharma Engineering</span></div>
+										<div class="testimonial-pagination"></div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+
+					<!-- Testimonial 3 -->
+					<div class="swiper-slide">
+						<div class="testimonial-block-two">
+							<div class="row">
+								<div class="image-column col-lg-6 col-md-12">
+									<figure class="image">
+										<img src="/frontend/my-img/user-3.jpg" alt="Client Review" style="width:551px; zheight:452px; object-fit:cover; object-position:center; display:block;">
+									</figure>
+								</div>
+								<div class="content-column col-lg-6 col-md-12">
+									<span class="icon icon-quote"></span>
+									<div class="text">
+										From consultation to installation, the entire process was smooth.
+										Their machines are reliable and built with modern technology.
+									</div>
+									<div class="info-box">
+										<h4 class="name">Suresh Patel</h4>
+										<div class="designation">Director at <span>Patel Construction Co.</span></div>
+										<div class="testimonial-pagination"></div>
+									</div>
+								</div>
+							</div>
 						</div>
 					</div>
 				</div>
 			</div>
-		</div>
-	</section>
-	<!-- End Testimonial Section -->
 
-	<!-- Newsletter Section -->
-	<section class="newsletter-section">
+			<!-- Navigation -->
+			<div class="swiper-button-prev"></div>
+			<div class="swiper-button-next"></div>
+
+		</div>
+	</div>
+</section>
+
+
+<section class="newsletter-section">
 		<div class="auto-container">
 			<div class="row g-0">
 				
@@ -716,11 +607,10 @@
 				<div class="newsletter-block col-lg-6 mb-0">
 					<div class="inner-box">
 						<div class="subscribe-form">
-							<h5 class="title">Subscribe to Newsletter</h5>
+							<h5 class="title">Feel free to contact us to our professional team.</h5>
 							<form method="post" action="#">
 								<div class="form-group">
-									<input type="email" name="email" class="email" value="" placeholder="Enter Your Email Address" required="">
-									<button type="button" class="theme-btn btn-style-one dark-bg"><i class="icon fa fas fa-plus"></i><span class="btn-title">Subscribe</span></button>
+									<button type="button" class="theme-btn btn-style-one dark-bg"><i class="icon fa fas fa-phone"></i><span class="btn-title">Contact Us</span></button>
 								</div>
 							</form>
 						</div>
@@ -729,75 +619,5 @@
 			</div>
 		</div>
 	</section>
-	<!-- End Newsletter Section -->
-
-	<!-- News Section -->
-	<section class="news-section pt-0">
-		<div class="auto-container">
-			<div class="sec-title wow fadeInUp">
-				<div class="row align-items-end">
-					<div class="col-md-6">
-						<span class="sub-title">Our Blog Posts</span>
-						<h2>Latest Blog & News</h2>
-					</div>
-					<div class="col-md-6 d-flex justify-content-md-end">
-						<a href="#0" class="theme-btn btn-style-one"><i class="icon fa fas fa-plus"></i><span class="btn-title">View All Posts</span></a>
-					</div>
-				</div>
-			</div>
-
-			<div class="row">
-				<!-- News Block -->
-				<div class="news-block col-lg-4 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="300ms">
-					<div class="inner-box">
-						<div class="image-box">
-							<figure class="image"><a href="#0"><img src="/frontend/images/resource/news-1.jpg" alt=""></a></figure>
-						</div>
-						<div class="content-box">
-							<ul class="post-info">
-								<li><i class="fa fa-user-circle"></i> Sowat A</li>
-								<li><i class="fa fa-comments"></i> 256 Comments</li>
-							</ul>
-							<h4 class="title"><a href="#0">How Sustainable Practices Are Reshaping the...</a></h4>
-							<a href="#0" class="read-more">Read More <i class="fa fa-solid fa-arrow-right"></i></a>
-						</div>
-					</div>
-				</div>
-				<!-- News Block -->
-				<div class="news-block col-lg-4 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="600ms">
-					<div class="inner-box">
-						<div class="image-box">
-							<figure class="image"><a href="#0"><img src="/frontend/images/resource/news-2.jpg" alt=""></a></figure>
-						</div>
-						<div class="content-box">
-							<ul class="post-info">
-								<li><i class="fa fa-user-circle"></i> Sowat A</li>
-								<li><i class="fa fa-comments"></i> 256 Comments</li>
-							</ul>
-							<h4 class="title"><a href="#0">How Sustainable Practices Are Reshaping the...</a></h4>
-							<a href="#0" class="read-more">Read More <i class="fa fa-solid fa-arrow-right"></i></a>
-						</div>
-					</div>
-				</div>
-				<!-- News Block -->
-				<div class="news-block col-lg-4 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="900ms">
-					<div class="inner-box">
-						<div class="image-box">
-							<figure class="image"><a href="#0"><img src="/frontend/images/resource/news-3.jpg" alt=""></a></figure>
-						</div>
-						<div class="content-box">
-							<ul class="post-info">
-								<li><i class="fa fa-user-circle"></i> Sowat A</li>
-								<li><i class="fa fa-comments"></i> 256 Comments</li>
-							</ul>
-							<h4 class="title"><a href="#0">How Sustainable Practices Are Reshaping the...</a></h4>
-							<a href="#0" class="read-more">Read More <i class="fa fa-solid fa-arrow-right"></i></a>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
-	<!--End News Section -->
 
 @endsection

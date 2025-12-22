@@ -205,24 +205,6 @@
 	<footer class="main-footer">
 		<div class="bg bg-pattern-1"></div>
 		<!-- Footer Top -->
-		<div class="footer-top">
-			<div class="auto-container">
-				<div class="outer-box">
-					<div class="list-style-three">
-						<a href="#">Resources</a>
-						<a href="#">Documentation</a>
-						<a href="#">Developers</a>
-						<a href="#">Portfolio</a>
-					</div>
-					<ul class="social-icon-two">
-						<li><a href="/"><i class="fab fa-facebook"></i></a></li>
-						<li><a href="/"><i class="fa fa-x"></i></a></li>
-						<li><a href="/"><i class="fab fa-youtube"></i></a></li>
-						<li><a href="/"><i class="fab fa-skype"></i></a></li>
-					</ul>
-				</div>
-			</div>
-		</div>
 		<!-- End Footer Top -->
 
 		<!--Widgets Section-->

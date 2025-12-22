@@ -50,3 +50,44 @@
         grid-template-columns: repeat(2, 1fr);
     }
 }
+
+.image-box .image {
+    width: 391px;
+    height: 260px;
+    overflow: hidden;
+}
+
+.image-box .image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    /* keeps aspect ratio */
+    display: block;
+}
+
+.newsletter-block .inner-box .subscribe-form .title {
+    font-size: 25px;
+    font-weight: 500;
+    margin-bottom: 28px;
+}
+
+.newsletter-section {
+    padding: 50px 0 40px;
+}
+
+.testimonial-section-two {
+    position: relative;
+    padding: 50px 0 40px;
+}
+
+.team-section {
+    position: relative;
+    padding: 50px 0 40px;
+    overflow: hidden;
+}
+
+.project-section {
+    position: relative;
+    padding: 50px 0 40px;
+    background-color: rgb(244, 244, 244);
+}
