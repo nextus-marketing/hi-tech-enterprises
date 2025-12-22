@@ -7,7 +7,7 @@
 		<div class="banner-carousel owl-carousel owl-theme">
 			<!-- Slide Item -->
 			<div class="slide-item">
-				<div class="bg-image" style="background-image: url(/frontend/images/main-slider/1.jpg);"></div>
+				<div class="bg-image" style="background-image: url(/frontend/my-img/slider.jpg);"></div>
 				<div class="auto-container">
 					<div class="content-box">
 						<h2 class="sub-title animate-1"><span>Trusted Machinery Supplier</span></h2>
@@ -22,7 +22,7 @@
 
 			<!-- Slide Item -->
 			<div class="slide-item">
-				<div class="bg-image" style="background-image: url(/frontend/images/main-slider/1.jpg);"></div>
+				<div class="bg-image" style="background-image: url(/frontend/my-img/slider-2.jpg);"></div>
 				<div class="auto-container">
 					<div class="content-box">
 						<h2 class="sub-title animate-1"><span>Inspected & Ready to Work</span></h2>
@@ -267,7 +267,12 @@
 				<div class="news-block col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="200ms">
 					<div class="inner-box">
 						<div class="image-box">
-							<figure class="image"><a href="#0"><img src="/frontend/my-img/1.webp" alt=""></a></figure>
+							<figure class="image">
+								<a href="#0">
+									<img src="/frontend/my-img/1.webp" alt="" style="width:391px; height:260px; object-fit:cover;">
+								</a>
+							</figure>
+
 						</div>
 						<div class="content-box">
 							<ul class="post-info">
@@ -283,7 +288,7 @@
 				<div class="news-block col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="300ms">
 					<div class="inner-box">
 						<div class="image-box">
-							<figure class="image"><a href="#0"><img src="/frontend/my-img/2.webp" alt=""></a></figure>
+							<figure class="image"><a href="#0"><img src="/frontend/my-img/2.webp" alt="" style="width:391px; height:260px; object-fit:cover;"></a></figure>
 						</div>
 						<div class="content-box">
 							<ul class="post-info">
@@ -300,7 +305,7 @@
 				<div class="news-block col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="300ms">
 					<div class="inner-box">
 						<div class="image-box">
-							<figure class="image"><a href="#0"><img src="/frontend/my-img/4.webp" alt=""></a></figure>
+							<figure class="image"><a href="#0"><img src="/frontend/my-img/4.webp" alt="" style="width:391px; height:260px; object-fit:cover;"></a></figure>
 						</div>
 						<div class="content-box">
 							<ul class="post-info">
@@ -313,8 +318,8 @@
 					</div>
 				</div>
 			</div>
-    </div>
-  </section>
+    	</div>
+</section>
 
 
 
