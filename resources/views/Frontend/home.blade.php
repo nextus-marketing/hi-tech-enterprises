@@ -38,6 +38,197 @@
 	</section>
 	<!--END Banner Section One -->
 
+
+<section class="project-section">
+  <div class="auto-container">
+    <div class="sec-title wow fadeInUp">
+      <span class="sub-title">Available Equipment</span>
+      <h2>Explore Our Equipment Categories</h2>
+    </div>
+
+    <div class="machine-wrapper">
+      <div class="machine-grid" id="machineGrid">
+
+        <!-- ===== VISIBLE ITEMS (8) ===== -->
+        <div class="machine-item">
+          <a href="#0">
+            <img src="/frontend/my-img/items/ariel-platforms.webp" alt="Aerial Platforms">
+            <span>Aerial Platforms</span>
+          </a>
+        </div>
+
+        <div class="machine-item">
+          <a href="#0">
+            <img src="/frontend/my-img/items/attachments.webp" alt="Attachments">
+            <span>Attachments</span>
+          </a>
+        </div>
+
+        <div class="machine-item">
+          <a href="#0">
+            <img src="/frontend/my-img/items/backhoe-loaders.webp" alt="Backhoe Loaders">
+            <span>Backhoe Loaders</span>
+          </a>
+        </div>
+
+        <div class="machine-item">
+          <a href="#0">
+            <img src="/frontend/my-img/items/boom-loader.webp" alt="Boom Loader">
+            <span>Boom Loader</span>
+          </a>
+        </div>
+
+        <div class="machine-item">
+          <a href="#0">
+            <img src="/frontend/my-img/items/compactors.webp" alt="Compactors">
+            <span>Compactors</span>
+          </a>
+        </div>
+
+        <div class="machine-item">
+          <a href="#0">
+            <img src="/frontend/my-img/items/compressors.webp" alt="Compressors">
+            <span>Compressors</span>
+          </a>
+        </div>
+
+        <div class="machine-item">
+          <a href="#0">
+            <img src="/frontend/my-img/items/container-stackers.webp" alt="Container Stackers">
+            <span>Container Stackers</span>
+          </a>
+        </div>
+
+        <div class="machine-item">
+          <a href="#0">
+            <img src="/frontend/my-img/items/cranes.webp" alt="Cranes">
+            <span>Cranes</span>
+          </a>
+        </div>
+
+		<div class="machine-item">
+          <a href="#0">
+            <img src="/frontend/my-img/items/crushers.webp" alt="Crushers">
+            <span>Crushers</span>
+          </a>
+        </div>
+
+        <div class="machine-item">
+          <a href="#0">
+            <img src="/frontend/my-img/items/dozers.webp" alt="Dozers">
+            <span>Dozers</span>
+          </a>
+        </div>
+
+        <!-- ===== HIDDEN ITEMS ===== -->
+        
+
+        <div class="machine-item hidden">
+          <a href="#0">
+            <img src="/frontend/my-img/items/excavators.webp" alt="Excavators">
+            <span>Excavators</span>
+          </a>
+        </div>
+
+        <div class="machine-item hidden">
+          <a href="#0">
+            <img src="/frontend/my-img/items/forklifts.webp" alt="Forklifts">
+            <span>Forklifts</span>
+          </a>
+        </div>
+
+        <div class="machine-item hidden">
+          <a href="#0">
+            <img src="/frontend/my-img/items/generators.webp" alt="Generators">
+            <span>Generators</span>
+          </a>
+        </div>
+
+        <div class="machine-item hidden">
+          <a href="#0">
+            <img src="/frontend/my-img/items/motor-graders.webp" alt="Motor Graders">
+            <span>Motor Graders</span>
+          </a>
+        </div>
+
+        <div class="machine-item hidden">
+          <a href="#0">
+            <img src="/frontend/my-img/items/other-equipments.webp" alt="Other Equipments">
+            <span>Other Equipments</span>
+          </a>
+        </div>
+
+        <div class="machine-item hidden">
+          <a href="#0">
+            <img src="/frontend/my-img/items/skid-steers.webp" alt="Skid Steers">
+            <span>Skid Steers</span>
+          </a>
+        </div>
+
+        <div class="machine-item hidden">
+          <a href="#0">
+            <img src="/frontend/my-img/items/trailers.webp" alt="Trailers">
+            <span>Trailers</span>
+          </a>
+        </div>
+
+        <div class="machine-item hidden">
+          <a href="#0">
+            <img src="/frontend/my-img/items/trucks.webp" alt="Trucks">
+            <span>Trucks</span>
+          </a>
+        </div>
+
+        <div class="machine-item hidden">
+          <a href="#0">
+            <img src="/frontend/my-img/items/vehicle-buses.webp" alt="Buses">
+            <span>Buses</span>
+          </a>
+        </div>
+
+        <div class="machine-item hidden">
+          <a href="#0">
+            <img src="/frontend/my-img/items/wheel-loaders.webp" alt="Wheel Loaders">
+            <span>Wheel Loaders</span>
+          </a>
+        </div>
+
+      </div>
+
+      <!-- BUTTON (UNCHANGED EXACTLY) -->
+      <div style="text-align:center; margin-top:40px;">
+        <a href="#0" id="toggleBrands" class="theme-btn btn-style-one hvr-light">
+          <i class="icon fa fas fa-plus"></i>
+          <span class="btn-title">Show More</span>
+        </a>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<script>
+  document.getElementById('toggleBrands').addEventListener('click', function (e) {
+    e.preventDefault();
+
+    const hiddenItems = document.querySelectorAll('.machine-item.hidden');
+    const btnText = this.querySelector('.btn-title');
+    const btnIcon = this.querySelector('i');
+
+    const isVisible = hiddenItems[0].style.display === 'block';
+
+    hiddenItems.forEach(item => {
+      item.style.display = isVisible ? 'none' : 'block';
+    });
+
+    btnText.innerText = isVisible ? 'Show More' : 'Show Less';
+    btnIcon.classList.toggle('fa-plus', isVisible);
+    btnIcon.classList.toggle('fa-minus', !isVisible);
+  });
+</script>
+
+
+
 	<!-- Work Section -->
 	<section class="work-section">
 	<div class="anim-icons full-width">
@@ -345,140 +536,6 @@
 </section>
 
 	<!--End Call To Action -->
-
-
-	<!-- Team Section -->
-	<section class="team-section">
-		<div class="auto-container">
-			<div class="sec-title style-two text-center wow fadeInUp">
-				<span class="sub-title">Our Professionals</span>
-				<h2>Meet Our Team Members</h2>
-			</div>
-
-			<div class="carousel-outer style-two">
-				<!-- Swiper -->
-				<div class="swiper team-slider">
-					<div class="swiper-wrapper">
-						<div class="swiper-slide">
-							
-							<!-- Team block -->
-							<div class="team-block">
-								<div class="inner-box">
-									<div class="image-box">
-										<figure class="image"><a href="#0"><img src="/frontend/images/resource/team-1.jpg" alt=""></a></figure>
-									</div>
-									<div class="info-box">
-										<h4 class="name"><a href="#0">Andrew Thomas</a></h4>
-										<span class="designation">Director</span>
-										<div class="social-links">
-											<a href="tel:+1234567890"><i class="icon fa fa-phone"></i>+598 2562 2153</a>
-											<a href="https://html.kodesolution.com/cdn-cgi/l/email-protection#60090e060f20151305124e030f0d"><i class="icon fa fa-envelope"></i><span class="__cf_email__" data-cfemail="9af3f4fcf5daefe9ffe8b4f9f5f7">[email&#160;protected]</span></a>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-						<div class="swiper-slide">
-						
-							<!-- Team block -->
-							<div class="team-block">
-								<div class="inner-box">
-									<div class="image-box">
-										<figure class="image"><a href="#0"><img src="/frontend/images/resource/team-2.jpg" alt=""></a></figure>
-									</div>
-									<div class="info-box">
-										<h4 class="name"><a href="#0">Michael Nicholas</a></h4>
-										<span class="designation">Director</span>
-										<div class="social-links">
-											<a href="tel:+1234567890"><i class="icon fa fa-phone"></i>+598 2562 2153</a>
-											<a href="https://html.kodesolution.com/cdn-cgi/l/email-protection#4a23242c250a3f392f3864292527"><i class="icon fa fa-envelope"></i><span class="__cf_email__" data-cfemail="adc4c3cbc2edd8dec8df83cec2c0">[email&#160;protected]</span></a>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-						<div class="swiper-slide">
-						
-							<!-- Team block -->
-							<div class="team-block">
-								<div class="inner-box">
-									<div class="image-box">
-										<figure class="image"><a href="#0"><img src="/frontend/images/resource/team-3.jpg" alt=""></a></figure>
-									</div>
-									<div class="info-box">
-										<h4 class="name"><a href="#0">Matthew George</a></h4>
-										<span class="designation">Director</span>
-										<div class="social-links">
-											<a href="tel:+1234567890"><i class="icon fa fa-phone"></i>+598 2562 2153</a>
-											<a href="https://html.kodesolution.com/cdn-cgi/l/email-protection#9df4f3fbf2dde8eef8efb3fef2f0"><i class="icon fa fa-envelope"></i><span class="__cf_email__" data-cfemail="7a13141c153a0f091f0854191517">[email&#160;protected]</span></a>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-						<div class="swiper-slide">
-							
-							<!-- Team block -->
-							<div class="team-block">
-								<div class="inner-box">
-									<div class="image-box">
-										<figure class="image"><a href="#0"><img src="/frontend/images/resource/team-1.jpg" alt=""></a></figure>
-									</div>
-									<div class="info-box">
-										<h4 class="name"><a href="#0">Andrew Thomas</a></h4>
-										<span class="designation">Director</span>
-										<div class="social-links">
-											<a href="tel:+1234567890"><i class="icon fa fa-phone"></i>+598 2562 2153</a>
-											<a href="https://html.kodesolution.com/cdn-cgi/l/email-protection#533a3d353c13262036217d303c3e"><i class="icon fa fa-envelope"></i><span class="__cf_email__" data-cfemail="6900070f06291c1a0c1b470a0604">[email&#160;protected]</span></a>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-						<div class="swiper-slide">
-						
-							<!-- Team block -->
-							<div class="team-block">
-								<div class="inner-box">
-									<div class="image-box">
-										<figure class="image"><a href="#0"><img src="/frontend/images/resource/team-2.jpg" alt=""></a></figure>
-									</div>
-									<div class="info-box">
-										<h4 class="name"><a href="#0">Michael Nicholas</a></h4>
-										<span class="designation">Director</span>
-										<div class="social-links">
-											<a href="tel:+1234567890"><i class="icon fa fa-phone"></i>+598 2562 2153</a>
-											<a href="https://html.kodesolution.com/cdn-cgi/l/email-protection#5e373038311e2b2d3b2c703d3133"><i class="icon fa fa-envelope"></i><span class="__cf_email__" data-cfemail="91f8fff7fed1e4e2f4e3bff2fefc">[email&#160;protected]</span></a>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-						<div class="swiper-slide">
-						
-							<!-- Team block -->
-							<div class="team-block">
-								<div class="inner-box">
-									<div class="image-box">
-										<figure class="image"><a href="#0"><img src="/frontend/images/resource/team-3.jpg" alt=""></a></figure>
-									</div>
-									<div class="info-box">
-										<h4 class="name"><a href="#0">Matthew George</a></h4>
-										<span class="designation">Director</span>
-										<div class="social-links">
-											<a href="tel:+1234567890"><i class="icon fa fa-phone"></i>+598 2562 2153</a>
-											<a href="https://html.kodesolution.com/cdn-cgi/l/email-protection#4920272f26093c3a2c3b672a2624"><i class="icon fa fa-envelope"></i><span class="__cf_email__" data-cfemail="f990979f96b98c8a9c8bd79a9694">[email&#160;protected]</span></a>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
-	<!-- End Team Section -->
 
 	<section class="testimonial-section-two pb-0">
 	<div class="auto-container">
