@@ -494,7 +494,7 @@
 
 	<!--End Call To Action -->
 
-	<section class="testimonial-section-two pb-0">
+{{-- <section class="testimonial-section-two pb-0">
 	<div class="auto-container">
 		<div class="testimonials">
 			<div class="swiper testimonial-two-slider">
@@ -583,7 +583,7 @@
 
 		</div>
 	</div>
-</section>
+</section> --}}
 
 
 <section class="newsletter-section">

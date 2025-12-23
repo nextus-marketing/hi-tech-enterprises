@@ -193,9 +193,10 @@
 		</div>
 	</div>
   <!-- End Services Section -->
+</br>
 
   <!-- Team Section -->
-	<section class="team-section">
+{{-- <section class="team-section">
 		<div class="auto-container">
 			<div class="sec-title style-two text-center wow fadeInUp">
 				<span class="sub-title">Our Professionals</span>
@@ -258,7 +259,7 @@
 				</div>
 			</div>
 		</div>
-	</section>
+	</section>  --}}	
   <!--Emd Team Section -->
 
 @endsection

@@ -8,14 +8,13 @@
 <link href="/frontend/plugins/revolution/css/settings.css" rel="stylesheet" type="text/css"><!-- REVOLUTION SETTINGS STYLES -->
 <link href="/frontend/plugins/revolution/css/layers.css" rel="stylesheet" type="text/css"><!-- REVOLUTION LAYERS STYLES -->
 <link href="/frontend/plugins/revolution/css/navigation.css" rel="stylesheet" type="text/css"><!-- REVOLUTION NAVIGATION STYLES -->
-
 <link href="/frontend/css/style.css" rel="stylesheet">
-
 <link rel="shortcut icon" href="/frontend/images/favicon.png" type="image/x-icon">
 <link rel="icon" href="/frontend/images/favicon.png" type="image/x-icon">
-
 <link href="/frontend/css/my.css" rel="stylesheet">
-
+<meta name="description" content="Hi Tech Enterprises provides advanced industrial and construction machinery solutions engineered for performance, reliability, and productivity."/>
+<meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
+<link rel="canonical" href="{{ url()->current() }}" />
 <!-- Responsive -->
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
@@ -59,7 +58,7 @@
 			<div class="auto-container">
 				<div class="inner-container">
 					<div class="logo-box">
-						<div class="logo"><a href="#0"><img src="/frontend/images/logo-2.png" alt="" title="Transend"></a></div>
+						<div class="logo"><a href="/"><img src="/frontend/images/logo-2.png" alt="" title="Transend"></a></div>
 					</div>
 					<!-- Main box -->
 					<div class="main-box">
@@ -178,7 +177,7 @@
 				<div class="inner-container">
 					<!--Logo-->
 					<div class="logo">
-						<a href="#0" title=""><img src="/frontend/images/logo-2.png" alt="" title=""></a>
+						<a href="/" title=""><img src="/frontend/images/logo-2.png" alt="" title=""></a>
 					</div>
 
 					<!--Right Col-->
