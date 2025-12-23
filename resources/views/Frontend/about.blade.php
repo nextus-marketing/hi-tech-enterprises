@@ -50,10 +50,10 @@
 				</div>
 
 				<!-- Image Column -->
-				<div class="image-column col-xl-5 col-lg-6 col-md-12 ">
+				<div class="image-column col-xl-5 col-lg-6 col-md-12">
 					<div class="inner-column">
 						<div class="image-box">
-							<figure class="image mb-0 overlay-anim wow fadeInUp"><img src="/frontend/images/resource/about-1.jpg" alt=""></figure>
+							<figure class="image mb-0 overlay-anim wow fadeInUp"><img src="/frontend/my-img/about.jpg" alt="" style="width:494px; height:550px;"></figure>
 							<div class="experience bounce-y">
 								<strong>25+</strong>
 								<div class="text">Years of<br>Experience</div>
@@ -87,7 +87,6 @@
 								<li>Professional and Qualified</li>
 							</ul>
 						</div>
-						<a href="#0" class="theme-btn btn-style-two hvr-light"><i class="icon fa fas fa-plus"></i><span class="btn-title">More About Us</span></a>
 					</div>
 				</div>
 				<div class="services-box col-xl-6 offset-xl-1">
@@ -113,7 +112,6 @@
 										<li>Precision Control</li>
 										<li>Heavy-Duty Performance</li>
 									</ul>
-									<a href="#0" class="theme-btn btn-style-two dark-bg"><i class="icon fa fas fa-plus"></i><span class="btn-title">Read Details</span></a>
 								</div>
 							</div>
 						</div>
@@ -138,7 +136,6 @@
 										<li>Extended Reach</li>
 										<li>Safe Operation</li>
 									</ul>
-									<a href="#0" class="theme-btn btn-style-two dark-bg"><i class="icon fa fas fa-plus"></i><span class="btn-title">Read Details</span></a>
 								</div>
 							</div>
 						</div>
@@ -152,18 +149,17 @@
 								<div class="content">
 									<div class="inner">
 										<span>Service 3</span>
-										<h4 class="title">Heavy Truck</h4>
+										<h4 class="title">Bulldozer</h4>
 									</div>
 								</div>
 								<div class="content-box">
-									<h4 class="title"><a href="#0">Heavy Truck</a></h4>
-									<div class="text">A heavy truck handles large cargo across tough routes.</div>
+									<h4 class="title"><a href="#0">Bulldozer</a></h4>
+									<div class="text">A powerful machine for moving earth and heavy materials across rough terrains.</div>
 									<ul class="list-style-two">
-										<li>High Load Capacity</li>
-										<li>Long-Haul Ready</li>
-										<li>Reliable Transport</li>
+										<li>High load capacity</li>
+										<li>Durable and reliable</li>
+										<li>Perfect for construction</li>
 									</ul>
-									<a href="#0" class="theme-btn btn-style-two dark-bg"><i class="icon fa fas fa-plus"></i><span class="btn-title">Read Details</span></a>
 								</div>
 							</div>
 						</div>
@@ -188,7 +184,6 @@
 										<li>High Productivity</li>
 										<li>Rugged Design</li>
 									</ul>
-									<a href="#0" class="theme-btn btn-style-two dark-bg"><i class="icon fa fas fa-plus"></i><span class="btn-title">Read Details</span></a>
 								</div>
 							</div>
 						</div>

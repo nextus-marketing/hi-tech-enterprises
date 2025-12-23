@@ -2,7 +2,7 @@
 @section('title') Contact Us | Hi Tech Enterprises @endsection
 @section('content')
 <!-- Start main-content -->
-	<section class="page-title" style="background-image: url(/frontend/images/background/page-title-bg.jpg);">
+	<section class="page-title" style="background-image: url(/frontend/my-img/bredcrum.jpg);">
 		<div class="auto-container">
 			<div class="title-outer text-center">
 				<h1 class="title">Contact Us</h1>

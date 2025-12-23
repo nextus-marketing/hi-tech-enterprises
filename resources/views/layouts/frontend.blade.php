@@ -30,19 +30,24 @@
 	<!-- Preloader -->
 	<!-- <div class="preloader"></div> -->
 
-	<!-- Main Header-->
-	<header class="main-header header-style-one">
+<header class="main-header header-style-two">
 		<!-- Header Top -->
 		<div class="header-top">
 			<div class="auto-container">
 				<div class="inner-container">
 
 					<div class="top-left">
-						<div class="text">Need Help: Providing Innovative and Sustainable Solutions.</div>
+						<div class="text">Welcome To Transportation Service Theme</div>
+						<div class="date">Office Hours: Mon-Fri: 09:00AM-6:00PM</div>
 					</div>
 
 					<div class="top-right">
-						<div class="date"><i class="fa fa-solid fa-clock"></i> Office Hours: 08:00am-6:00pm</div>
+						<ul class="social-icon-four">
+							<li><a href="#"><span class="fab fa-facebook-square"></span></a></li>
+							<li><a href="#"><span class="fa fa-x"></span></a></li>
+							<li><a href="#"><span class="fab fa-youtube"></span></a></li>
+							<li><a href="#"><span class="fab fa-brands fa-linkedin"></span></a></li>
+						</ul>
 					</div>
 				</div>
 			</div>
@@ -54,27 +59,8 @@
 			<div class="auto-container">
 				<div class="inner-container">
 					<div class="logo-box">
-						<div class="logo"><a href="/"><img src="/frontend/images/logo-2.png" alt="" title="Transend"></a></div>
+						<div class="logo"><a href="#0"><img src="/frontend/images/logo-2.png" alt="" title="Transend"></a></div>
 					</div>
-
-					<div class="outer-box">
-						<ul class="social-icon-one">
-							<li><i class="icon fa fa-phone"></i><a href="tel:1234567890">(+02) 0102 25 1247</a></li>
-							<li><i class="icon fa fa-envelope"></i><a href="https://html.kodesolution.com/cdn-cgi/l/email-protection#84edeae2ebc4e8ebe3edf7e1eae0aae7ebe9"><span class="__cf_email__" data-cfemail="6c05020a032c00030b051f090208420f0301">[email&#160;protected]</span></a></li>
-							<li><i class="icon fa fa-map-marker-alt"></i><a href="#">259 Hotland, USA</a></li>
-						</ul>
-
-						<!-- Mobile Nav toggler -->
-						<div class="mobile-nav-toggler"><span class="icon lnr-icon-bars"></span></div>
-					</div>
-				</div>
-			</div>
-		</div>
-
-		<!-- Header Bottom -->
-		<div class="header-bottom">
-			<div class="auto-container">
-				<div class="inner-container">
 					<!-- Main box -->
 					<div class="main-box">
 
@@ -84,24 +70,40 @@
 							<nav class="nav main-menu">
 								<ul class="navigation">
 									<li> <a href="/">Home</a></li>
-									<li> <a href="/about">About Us</a></li>
-									<li><a href="#">Services</a></li>
-									<li><a href="#">Blog</a></li>
+									<li><a href="/about">About Us</a></li>
+									<li class="dropdown"><a href="#">Products</a>
+										<ul>
+											<li><a href="#0">Roller</a></li>
+											<li><a href="#0">Bulldozer</a></li>
+											<li><a href="#0">Wheel Loader</a></li>
+											<li><a href="#0">Material Handler</a></li>
+										</ul>
+									</li>
+									<li><a href="/blogs">Blogs</a></li>
 									<li><a href="/contact">Contact</a></li>
 								</ul>
 							</nav>
 							<!-- Main Menu End-->
+						</div>
+					</div>
 
 
-							<div class="outer-box">
-								<a href="#0" class="theme-btn btn-style-one"><i class="icon fa fas fa-plus"></i><span class="btn-title">Track Your Order</span></a>
+					<div class="outer-box">
+						<a href="#0" class="theme-btn btn-style-one"><i class="icon fa fas fa-plus"></i><span class="btn-title">Request A Quote</span></a>
+
+						<!-- Mobile Nav Btn -->
+						<div class="grid-nav-btn mobile-nav-toggler">
+							<div class="inner">
+								<img class="icons" src="/frontend/images/icons/icon-1.png" alt="Icon">
 							</div>
 						</div>
 					</div>
+
+					<!-- Mobile Nav toggler -->
+					<div class="mobile-nav-toggler"><span class="icon lnr-icon-bars"></span></div>
 				</div>
 			</div>
 		</div>
-		<!-- End Header Lower -->
 
 		<!-- Mobile Menu  -->
 		<div class="mobile-menu">
@@ -131,7 +133,7 @@
 						<div class="contact-info-box">
 							<span class="icon lnr-icon-envelope1"></span>
 							<span class="title">Send Email</span>
-							<a href="https://html.kodesolution.com/cdn-cgi/l/email-protection#e68e838a96a685898b9687889fc885898b"><span class="__cf_email__" data-cfemail="573f323b271734383a2736392e7934383a">[email&#160;protected]</span></a>
+							<a href="https://html.kodesolution.com/cdn-cgi/l/email-protection#076f626b774764686a7766697e2964686a"><span class="__cf_email__" data-cfemail="472f222b370724282a3726293e6924282a">[email&#160;protected]</span></a>
 						</div>
 					</li>
 					<li>
@@ -152,8 +154,7 @@
 					<li><a href="#"><i class="fab fa-instagram"></i></a></li>
 				</ul>
 			</nav>
-		</div>
-		<!-- End Mobile Menu -->
+		</div><!-- End Mobile Menu -->
 
 		<!-- Header Search -->
 		<div class="search-popup">
@@ -161,7 +162,7 @@
 			<button class="close-search"><span class="fa fa-times"></span></button>
 
 			<div class="search-inner">
-				<form method="post" action="https://html.kodesolution.com/2024/transend-html//">
+				<form method="post" action="https://html.kodesolution.com/2024/transend-html/#0">
 					<div class="form-group">
 						<input type="search" name="search-field" value="" placeholder="Search..." required="">
 						<button type="submit"><i class="fa fa-search"></i></button>
@@ -177,7 +178,7 @@
 				<div class="inner-container">
 					<!--Logo-->
 					<div class="logo">
-						<a href="/" title=""><img src="/frontend/images/logo-2.png" alt="" title=""></a>
+						<a href="#0" title=""><img src="/frontend/images/logo-2.png" alt="" title=""></a>
 					</div>
 
 					<!--Right Col-->
@@ -227,7 +228,8 @@
 							<ul class="user-links">
 								<li><a href="/">Home</a></li>
 								<li><a href="/about">About us</a></li>
-								<li><a href="#0">Services</a></li>
+								<li><a href="#0">Products</a></li>
+								<li><a href="/blogs">Blog</a></li>
 								<li><a href="/">Contact Us</a></li>
 							</ul>
 						</div>
@@ -267,8 +269,8 @@
 					</div>
 
 					<div class="copyright-right">
-						<a href="/">Terms & Conditions</a>
-						<a href="/">Privacy Policy</a>
+						<a href="/terms-and-conditions">Terms & Conditions</a>
+						<a href="/privacy-policy">Privacy Policy</a>
 					</div>
 				</div>
 			</div>

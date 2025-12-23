@@ -39,6 +39,7 @@
 	<!--END Banner Section One -->
 
 
+	
 <section class="project-section">
   <div class="auto-container">
     <div class="sec-title wow fadeInUp">
@@ -197,35 +198,15 @@
 
       <!-- BUTTON (UNCHANGED EXACTLY) -->
       <div style="text-align:center; margin-top:40px;">
-        <a href="#0" id="toggleBrands" class="theme-btn btn-style-one hvr-light">
-          <i class="icon fa fas fa-plus"></i>
-          <span class="btn-title">Show More</span>
-        </a>
+        <a href="#0" id="toggleEquipment" class="theme-btn btn-style-one hvr-light">
+  <i class="icon fa fas fa-plus"></i>
+  <span class="btn-title">Show More</span>
+</a>
       </div>
 
     </div>
   </div>
 </section>
-
-<script>
-  document.getElementById('toggleBrands').addEventListener('click', function (e) {
-    e.preventDefault();
-
-    const hiddenItems = document.querySelectorAll('.machine-item.hidden');
-    const btnText = this.querySelector('.btn-title');
-    const btnIcon = this.querySelector('i');
-
-    const isVisible = hiddenItems[0].style.display === 'block';
-
-    hiddenItems.forEach(item => {
-      item.style.display = isVisible ? 'none' : 'block';
-    });
-
-    btnText.innerText = isVisible ? 'Show More' : 'Show Less';
-    btnIcon.classList.toggle('fa-plus', isVisible);
-    btnIcon.classList.toggle('fa-minus', !isVisible);
-  });
-</script>
 
 
 
@@ -353,7 +334,7 @@
 				<div class="image-column col-xl-5 col-lg-6 col-md-12 ">
 					<div class="inner-column">
 						<div class="image-box">
-							<figure class="image mb-0 overlay-anim wow fadeInUp"><img src="/frontend/images/resource/about-1.jpg" alt=""></figure>
+							<figure class="image mb-0 overlay-anim wow fadeInUp"><img src="/frontend/my-img/about.jpg" alt="" style="width:494px; height:550px;"></figure>
 							<div class="experience bounce-y">
 								<strong>25+</strong>
 								<div class="text">Years of<br>Experience</div>
@@ -365,6 +346,9 @@
 		</div>
 	</section>
 	<!--Emd About Section -->
+
+
+
 
 	<!-- Project Section -->
 	<section class="project-section">
@@ -408,42 +392,15 @@
       <!-- add more with class="extra" -->
     </div>
 
-    <div class="text-center mt-40">
-      <a href="#0" id="toggleBrands"
-         class="theme-btn btn-style-one hvr-light">
-        <i class="icon fa fas fa-plus"></i>
-        <span class="btn-title">Show More</span>
-      </a>
-    </div>
+    <div style="text-align:center; margin-top:40px;">
+        <a href="#0" id="toggleBrandsBtn" class="theme-btn btn-style-one hvr-light">
+  <i class="icon fa fas fa-plus"></i>
+  <span class="btn-title">Show More</span>
+</a>
+      </div>
 		</div>
 	</section>
 	<!--End Project Section -->
-
-
-<script>
-  const toggleBtn = document.getElementById('toggleBrands');
-  const extraItems = document.querySelectorAll('.brand-item.extra');
-  const icon = toggleBtn.querySelector('i');
-  const text = toggleBtn.querySelector('.btn-title');
-
-  let expanded = false;
-
-  toggleBtn.addEventListener('click', function (e) {
-    e.preventDefault();
-
-    expanded = !expanded;
-
-    extraItems.forEach(item => {
-      item.style.display = expanded ? 'flex' : 'none';
-    });
-
-    icon.className = expanded
-      ? 'icon fa fas fa-minus'
-      : 'icon fa fas fa-plus';
-
-    text.textContent = expanded ? 'Show Less' : 'Show More';
-  });
-</script>
 
 
 
@@ -469,7 +426,7 @@
 							<ul class="post-info">
 								<li><i class="fa-solid fa-droplet"></i>Disel</li>
 								<li><i class="fa-solid fa-truck"></i>Used</li>
-								<li><i class="fa-solid fa-calendar"></i>2020</li>
+								<li><i class="fa-solid fa-calendar"></i>2018</li>
 							</ul>
 							<h4 class="title"><a href="#0">Motor Grader 740 A</a></h4>
 						</div>
@@ -502,7 +459,7 @@
 							<ul class="post-info">
 								<li><i class="fa-solid fa-droplet"></i>Disel</li>
 								<li><i class="fa-solid fa-truck"></i>Used</li>
-								<li><i class="fa-solid fa-calendar"></i>2020</li>
+								<li><i class="fa-solid fa-calendar"></i>2025</li>
 							</ul>
 							<h4 class="title"><a href="#0">6 Wheel Tipper Truck</a></h4>
 						</div>
@@ -669,10 +626,10 @@
 				<div class="newsletter-block col-lg-6 mb-0">
 					<div class="inner-box">
 						<div class="subscribe-form">
-							<h5 class="title">Feel free to contact us to our professional team.</h5>
+							<h5 class="title">Contact our professional team today.</h5>
 							<form method="post" action="#">
 								<div class="form-group">
-									<button type="button" class="theme-btn btn-style-one dark-bg"><i class="icon fa fas fa-phone"></i><span class="btn-title">Contact Us</span></button>
+									<button type="button" class="theme-btn btn-style-one dark-bg"><i class="icon fa fas fa-phone"></i><span class="btn-title">Talk to an Expert </span></button>
 								</div>
 							</form>
 						</div>
@@ -681,5 +638,54 @@
 			</div>
 		</div>
 	</section>
+
+
+	
+<script>
+  // ===== Equipment Section =====
+  const equipmentBtn = document.getElementById('toggleEquipment'); // make sure your first button id="toggleEquipment"
+  equipmentBtn.addEventListener('click', function(e) {
+    e.preventDefault();
+
+    const hiddenItems = document.querySelectorAll('.machine-item.hidden');
+    const btnText = this.querySelector('.btn-title');
+    const btnIcon = this.querySelector('i');
+
+    // Use computed style for correct initial detection
+    const isVisible = window.getComputedStyle(hiddenItems[0]).display !== 'none';
+
+    hiddenItems.forEach(item => {
+      item.style.display = isVisible ? 'none' : 'block';
+    });
+
+    btnText.innerText = isVisible ? 'Show More' : 'Show Less';
+    btnIcon.classList.toggle('fa-plus', isVisible);
+    btnIcon.classList.toggle('fa-minus', !isVisible);
+  });
+
+
+  // ===== Brands Section =====
+  const brandsBtn = document.getElementById('toggleBrandsBtn'); // make sure your second button id="toggleBrandsBtn"
+  const extraBrandItems = document.querySelectorAll('.brand-item.extra');
+
+  brandsBtn.addEventListener('click', function(e) {
+    e.preventDefault();
+
+    const btnIcon = this.querySelector('i');
+    const btnText = this.querySelector('.btn-title');
+
+    // Check computed style of first extra brand item
+    const isVisible = window.getComputedStyle(extraBrandItems[0]).display !== 'none';
+
+    extraBrandItems.forEach(item => {
+      item.style.display = isVisible ? 'none' : 'flex'; // brands use flex layout
+    });
+
+    btnIcon.className = isVisible ? 'icon fa fas fa-plus' : 'icon fa fas fa-minus';
+    btnText.textContent = isVisible ? 'Show More' : 'Show Less';
+  });
+</script>
+
+
 
 @endsection
