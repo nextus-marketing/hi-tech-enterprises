@@ -173,3 +173,7 @@
 .mobile-menu .nav-logo img {
     max-height: 80px;
 }
+
+.call-to-action .title-box .logo-box {
+    margin-bottom: 0px;
+}

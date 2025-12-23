@@ -477,7 +477,7 @@
 	<div class="auto-container">
 		<div class="title-box wow zoomIn">
 			<div class="logo-box">
-				<img src="/frontend/images/logo.png" alt="Hi Tech Enterprises Logo">
+				<img src="/frontend/my-img/footer-bg.png" alt="Hi Tech Enterprises Logo" style="width:175px; height:100px;">
 			</div>
 			<h2 class="title">Driving Innovation in Industrial Machinery</h2>
 			<div class="text">
