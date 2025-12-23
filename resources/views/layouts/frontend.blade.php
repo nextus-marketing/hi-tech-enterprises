@@ -58,7 +58,7 @@
 			<div class="auto-container">
 				<div class="inner-container">
 					<div class="logo-box">
-						<div class="logo"><a href="/"><img src="/frontend/images/logo-2.png" alt="" title="Transend"></a></div>
+						<div class="logo"><a href="/"><img src="/frontend/my-img/logo.png" alt="" title="Transend" style="width:175px; height:100px;"></a></div>
 					</div>
 					<!-- Main box -->
 					<div class="main-box">
@@ -111,7 +111,7 @@
 			<!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header-->
 			<nav class="menu-box">
 				<div class="upper-box">
-					<div class="nav-logo"><a href="/"><img src="/frontend/images/logo.png" alt="" title=""></a></div>
+					<div class="nav-logo"><a href="/"><img src="/frontend/my-img/footer-bg.png" alt="" style="width:175px; height:100px;"></a></div>
 					<div class="close-btn"><i class="icon fa fa-times"></i></div>
 				</div>
 
@@ -177,7 +177,7 @@
 				<div class="inner-container">
 					<!--Logo-->
 					<div class="logo">
-						<a href="/" title=""><img src="/frontend/images/logo-2.png" alt="" title=""></a>
+						<a href="/" title=""><img src="/frontend/my-img/logo.png" alt="" style="width:175px; height:100px;"></a>
 					</div>
 
 					<!--Right Col-->
@@ -215,7 +215,7 @@
 					<!--Footer Column-->
 					<div class="footer-column col-xl-4 col-lg-4 col-md-6 col-sm-6">
 						<div class="footer-widget about-widget">
-							<div class="logo"><a href="/"><img src="/frontend/images/logo.png" alt="" ></a></div>
+							<div class="logo"><a href="/"><img src="/frontend/my-img/footer-bg.png" alt=""style="width:175px; height:100px;" ></a></div>
 							<div class="text">We understand that every business is unique, which is why we tailor our services to meet your specific needs.</div>
 						</div>
 					</div>
@@ -254,7 +254,6 @@
 							<a class="btn-locations" href="/">View all locations</a>
 						</div>
 					</div>
-
 				</div>
 			</div>
 		</div>
@@ -264,7 +263,7 @@
 			<div class="auto-container">
 				<div class="inner-container">
 					<div class="copyright-text">
-						<p>Copyright © 2025 TranSend. All Rights Reserved.</p>
+						<p>Copyright © 2025 Hi Tech Enterprises. All Rights Reserved.</p>
 					</div>
 
 					<div class="copyright-right">
