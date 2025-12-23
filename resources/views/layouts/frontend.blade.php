@@ -223,12 +223,12 @@
 					<!--Footer Column-->
 					<div class="footer-column col-xl-3 col-lg-3 col-md-6 col-sm-6">
 						<div class="footer-widget company-widget">
-							<h3 class="widget-title">Our Company</h3>
+							<h3 class="widget-title">Quick Links</h3>
 							<ul class="user-links">
+								<li><a href="/">Home</a></li>
 								<li><a href="/about">About us</a></li>
-								<li><a href="#0">Team</a></li>
-								<li><a href="/">Partners & Certifications</a></li>
-								<li><a href="/">Reviews & Awards</a></li>
+								<li><a href="#0">Services</a></li>
+								<li><a href="/">Contact Us</a></li>
 							</ul>
 						</div>
 					</div>

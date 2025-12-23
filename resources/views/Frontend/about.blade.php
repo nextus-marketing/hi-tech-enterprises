@@ -3,7 +3,7 @@
 @section('title') About Us | Hi Tech Enterprises @endsection
 @section('content')
 	<!-- Start main-content -->
-	<section class="page-title" style="background-image: url(/frontend/images/background/page-title-bg.jpg);">
+	<section class="page-title" style="background-image: url(/frontend/my-img/bredcrum.jpg);">
 		<div class="auto-container">
 			<div class="title-outer text-center">
 				<h1 class="title">About Us</h1>
@@ -28,12 +28,12 @@
 					<div class="inner-column">
 						<div class="sec-title">
 							<span class="sub-title">More About Us</span>
-							<h2>Reliable Transport Solutions <br>Saves Your Time!</h2>
+							<h2>Reliable Machinery Solutions That Power Your Projects</h2>
 						</div>
 
-						<div class="text2">Welcome to Transend Logistics, a trailblazing logistics company dedicated to propelling your business towards unparalleled success.</div>
+						<div class="text2">Welcome to Hi Tech Enterprises, a forward-thinking engineering and machinery solutions company committed to driving industrial and construction excellence.</div>
 
-						<div class="text">At Transend, we redefine the boundaries of supply chain management, leveraging cutting-edge technology and innovative solutions to deliver seamless logistics services to our valued clients. With a commitment to excellence, Transend takes pride in offering a comprehensive suite of services, including transportation, warehousing, inventory management, customs clearance, and last-mile delivery.</div>
+						<div class="text">At Hi Tech Enterprises, we specialize in delivering high-performance construction and industrial machinery designed with advanced technology, precision engineering, and uncompromising quality. Our solutions support infrastructure development, manufacturing, and large-scale projects by improving productivity, safety, and operational efficiency.</div>
 
 						<div class="btn-box d-flex align-items-center">
 							<a href="#0" class="theme-btn btn-style-one"><i class="icon fa fas fa-plus"></i><span class="btn-title">Our Services</span></a>
@@ -75,16 +75,16 @@
 						<div class="sec-title style-three light">
 							<span class="sub-title">Service We Provide</span>
 							<h2>We Guarantee fast and safe transport for your package</h2>
-							<div class="text">With real-time visibility, logistics teams can identify potential delays or issues in the transportation process early on and take proactive measures to address them....</div>
+							<div class="text">With real-time visibility, logistics teams can identify potential delays or issues in the transportation process early on and take proactive measures to address them.</div>
 						</div>
 						<div class="row">
 							<ul class="list-style-two col-sm-6">
-								<li>Guality Control System</li>
-								<li>Satisfaction Gurantee</li>
+								<li>Quality Control System</li>
+								<li>Satisfaction Guarantee</li>
 							</ul>
 							<ul class="list-style-two col-sm-6">
 								<li>Highly Professional Staff</li>
-								<li>Profesional and Qualified</li>
+								<li>Professional and Qualified</li>
 							</ul>
 						</div>
 						<a href="#0" class="theme-btn btn-style-two hvr-light"><i class="icon fa fas fa-plus"></i><span class="btn-title">More About Us</span></a>
@@ -97,21 +97,21 @@
 						<div class="services-block-three col-xl-6 col-lg-4 col-md-6">
 							<div class="inner-box">
 								<div class="image-box">
-									<figure class="image mb-0"><a href="#0"><img src="/frontend/images/resource/service3-1.jpg" alt=""></a></figure>
+									<figure class="image mb-0"><a href="#0"><img src="/frontend/my-img/7.jpg" alt=""  style="width:287px; height:228px; object-fit:cover; display:block;"></a></figure>
 								</div>
 								<div class="content">
 									<div class="inner">
 										<span>Service 1</span>
-										<h4 class="title">Road Freight</h4>
+										<h4 class="title">Excavator</h4>
 									</div>
 								</div>
 								<div class="content-box">
-									<h4 class="title"><a href="#0">Road Freight</a></h4>
-									<div class="text">Train freight is commonly used for high-value...</div>
+									<h4 class="title"><a href="#0">Excavator</a></h4>
+									<div class="text">An excavator is built for powerful excavation work.</div>
 									<ul class="list-style-two">
-										<li>Flexibility & Versatility</li>
-										<li>Controlled Environment</li>
-										<li>Speed and Efficiency</li>
+										<li>Powerful Digging</li>
+										<li>Precision Control</li>
+										<li>Heavy-Duty Performance</li>
 									</ul>
 									<a href="#0" class="theme-btn btn-style-two dark-bg"><i class="icon fa fas fa-plus"></i><span class="btn-title">Read Details</span></a>
 								</div>
@@ -122,21 +122,21 @@
 						<div class="services-block-three pull-up col-xl-6 col-lg-4 col-md-6">
 							<div class="inner-box">
 								<div class="image-box">
-									<figure class="image mb-0"><a href="#0"><img src="/frontend/images/resource/service3-4.jpg" alt=""></a></figure>
+									<figure class="image mb-0"><a href="#0"><img src="/frontend/my-img/5.jpg" alt="" style="width:287px; height:228px; object-fit:cover; display:block;"></a></figure>
 								</div>
 								<div class="content">
 									<div class="inner">
 										<span>Service 2</span>
-										<h4 class="title">Train Freight</h4>
+										<h4 class="title">Crane</h4>
 									</div>
 								</div>
 								<div class="content-box">
-									<h4 class="title"><a href="#0">Train Freight</a></h4>
-									<div class="text">Train freight is commonly used for high-value...</div>
+									<h4 class="title"><a href="#0">Crane</a></h4>
+									<div class="text">A crane is used for lifting and positioning heavy loads.</div>
 									<ul class="list-style-two">
-										<li>Flexibility & Versatility</li>
-										<li>Controlled Environment</li>
-										<li>Speed and Efficiency</li>
+										<li>Heavy Lifting</li>
+										<li>Extended Reach</li>
+										<li>Safe Operation</li>
 									</ul>
 									<a href="#0" class="theme-btn btn-style-two dark-bg"><i class="icon fa fas fa-plus"></i><span class="btn-title">Read Details</span></a>
 								</div>
@@ -147,21 +147,21 @@
 						<div class="services-block-three col-xl-6 col-lg-4 col-md-6">
 							<div class="inner-box">
 								<div class="image-box">
-									<figure class="image mb-0"><a href="#0"><img src="/frontend/images/resource/service3-2.jpg" alt=""></a></figure>
+									<figure class="image mb-0"><a href="#0"><img src="/frontend/my-img/vehicle-road.jpg" alt="" style="width:287px; height:228px; object-fit:cover; display:block;"></a></figure>
 								</div>
 								<div class="content">
 									<div class="inner">
 										<span>Service 3</span>
-										<h4 class="title">Ocean Freight</h4>
+										<h4 class="title">Heavy Truck</h4>
 									</div>
 								</div>
 								<div class="content-box">
-									<h4 class="title"><a href="#0">Ocean Freight</a></h4>
-									<div class="text">Train freight is commonly used for high-value...</div>
+									<h4 class="title"><a href="#0">Heavy Truck</a></h4>
+									<div class="text">A heavy truck handles large cargo across tough routes.</div>
 									<ul class="list-style-two">
-										<li>Flexibility & Versatility</li>
-										<li>Controlled Environment</li>
-										<li>Speed and Efficiency</li>
+										<li>High Load Capacity</li>
+										<li>Long-Haul Ready</li>
+										<li>Reliable Transport</li>
 									</ul>
 									<a href="#0" class="theme-btn btn-style-two dark-bg"><i class="icon fa fas fa-plus"></i><span class="btn-title">Read Details</span></a>
 								</div>
@@ -172,21 +172,21 @@
 						<div class="services-block-three pull-up col-xl-6 col-lg-4 col-md-6">
 							<div class="inner-box">
 								<div class="image-box">
-									<figure class="image mb-0"><a href="#0"><img src="/frontend/images/resource/service3-3.jpg" alt=""></a></figure>
+									<figure class="image mb-0"><a href="#0"><img src="/frontend/my-img/6.jpg" alt="" style="width:287px; height:228px; object-fit:cover; display:block;"></a></figure>
 								</div>
 								<div class="content">
 									<div class="inner">
 										<span>Service 4</span>
-										<h4 class="title">Air Freight</h4>
+										<h4 class="title">Wheel Loader</h4>
 									</div>
 								</div>
 								<div class="content-box">
-									<h4 class="title"><a href="#0">Air Freight</a></h4>
-									<div class="text">Train freight is commonly used for high-value...</div>
+									<h4 class="title"><a href="#0">Wheel Loader</a></h4>
+									<div class="text">A wheel loader moves and loads materials efficiently on-site.</div>
 									<ul class="list-style-two">
-										<li>Flexibility & Versatility</li>
-										<li>Controlled Environment</li>
-										<li>Speed and Efficiency</li>
+										<li>Fast Material Handling</li>
+										<li>High Productivity</li>
+										<li>Rugged Design</li>
 									</ul>
 									<a href="#0" class="theme-btn btn-style-two dark-bg"><i class="icon fa fas fa-plus"></i><span class="btn-title">Read Details</span></a>
 								</div>
@@ -222,10 +222,7 @@
 									<div class="info-box">
 										<h4 class="name"><a href="#0">Andrew Thomas</a></h4>
 										<span class="designation">Director</span>
-										<div class="social-links">
-											<a href="tel:+1234567890"><i class="icon fa fa-phone"></i>+598 2562 2153</a>
-											<a href="https://html.kodesolution.com/cdn-cgi/l/email-protection#9df4f3fbf2dde8eef8efb3fef2f0"><i class="icon fa fa-envelope"></i><span class="__cf_email__" data-cfemail="bdd4d3dbd2fdc8ced8cf93ded2d0">[email&#160;protected]</span></a>
-										</div>
+										
 									</div>
 								</div>
 							</div>
@@ -241,10 +238,7 @@
 									<div class="info-box">
 										<h4 class="name"><a href="#0">Michael Nicholas</a></h4>
 										<span class="designation">Director</span>
-										<div class="social-links">
-											<a href="tel:+1234567890"><i class="icon fa fa-phone"></i>+598 2562 2153</a>
-											<a href="https://html.kodesolution.com/cdn-cgi/l/email-protection#8ee7e0e8e1cefbfdebfca0ede1e3"><i class="icon fa fa-envelope"></i><span class="__cf_email__" data-cfemail="731a1d151c33060016015d101c1e">[email&#160;protected]</span></a>
-										</div>
+										
 									</div>
 								</div>
 							</div>
@@ -260,67 +254,7 @@
 									<div class="info-box">
 										<h4 class="name"><a href="#0">Matthew George</a></h4>
 										<span class="designation">Director</span>
-										<div class="social-links">
-											<a href="tel:+1234567890"><i class="icon fa fa-phone"></i>+598 2562 2153</a>
-											<a href="https://html.kodesolution.com/cdn-cgi/l/email-protection#dcb5b2bab39ca9afb9aef2bfb3b1"><i class="icon fa fa-envelope"></i><span class="__cf_email__" data-cfemail="c7aea9a1a887b2b4a2b5e9a4a8aa">[email&#160;protected]</span></a>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-						<div class="swiper-slide">
-							
-							<!-- Team block -->
-							<div class="team-block">
-								<div class="inner-box">
-									<div class="image-box">
-										<figure class="image"><a href="#0"><img src="/frontend/images/resource/team-1.jpg" alt=""></a></figure>
-									</div>
-									<div class="info-box">
-										<h4 class="name"><a href="#0">Andrew Thomas</a></h4>
-										<span class="designation">Director</span>
-										<div class="social-links">
-											<a href="tel:+1234567890"><i class="icon fa fa-phone"></i>+598 2562 2153</a>
-											<a href="https://html.kodesolution.com/cdn-cgi/l/email-protection#761f18101936030513045815191b"><i class="icon fa fa-envelope"></i><span class="__cf_email__" data-cfemail="aac3c4ccc5eadfd9cfd884c9c5c7">[email&#160;protected]</span></a>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-						<div class="swiper-slide">
-						
-							<!-- Team block -->
-							<div class="team-block">
-								<div class="inner-box">
-									<div class="image-box">
-										<figure class="image"><a href="#0"><img src="/frontend/images/resource/team-2.jpg" alt=""></a></figure>
-									</div>
-									<div class="info-box">
-										<h4 class="name"><a href="#0">Michael Nicholas</a></h4>
-										<span class="designation">Director</span>
-										<div class="social-links">
-											<a href="tel:+1234567890"><i class="icon fa fa-phone"></i>+598 2562 2153</a>
-											<a href="https://html.kodesolution.com/cdn-cgi/l/email-protection#b4dddad2dbf4c1c7d1c69ad7dbd9"><i class="icon fa fa-envelope"></i><span class="__cf_email__" data-cfemail="deb7b0b8b19eabadbbacf0bdb1b3">[email&#160;protected]</span></a>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-						<div class="swiper-slide">
-						
-							<!-- Team block -->
-							<div class="team-block">
-								<div class="inner-box">
-									<div class="image-box">
-										<figure class="image"><a href="#0"><img src="/frontend/images/resource/team-3.jpg" alt=""></a></figure>
-									</div>
-									<div class="info-box">
-										<h4 class="name"><a href="#0">Matthew George</a></h4>
-										<span class="designation">Director</span>
-										<div class="social-links">
-											<a href="tel:+1234567890"><i class="icon fa fa-phone"></i>+598 2562 2153</a>
-											<a href="https://html.kodesolution.com/cdn-cgi/l/email-protection#5c35323a331c292f392e723f3331"><i class="icon fa fa-envelope"></i><span class="__cf_email__" data-cfemail="660f08000926131503144805090b">[email&#160;protected]</span></a>
-										</div>
+										
 									</div>
 								</div>
 							</div>
@@ -332,59 +266,4 @@
 	</section>
   <!--Emd Team Section -->
 
-  <!-- Call To Action -->
-	<section class="newsletter-section p-0">
-		<div class="container-fluid p-0">
-			<div class="row g-0">
-				
-				<!-- Contact Block -->
-				<div class="contact-block col-lg-6">
-					<div class="inner-box justify-content-xl-end">
-
-						<!-- Contact Info Box -->
-						<div class="contact-info-box me-xl-5">
-							<div class="inner-box2">
-								<div class="icon-box">
-									<i class="icon fa fa-solid fa-headphones"></i>
-								</div>
-								<div class="content-box">
-									<h5>Help Center</h5>
-									<div class="text">24/7 Support<br>+(258) 629-32-238</div>
-								</div>
-							</div>
-						</div>
-
-						<!-- Contact Info Box -->
-						<div class="contact-info-box">
-							<div class="inner-box2">
-								<div class="icon-box">
-									<i class="icon fa fa-map-marker-alt"></i>
-								</div>
-								<div class="content-box">
-									<h5>Our Location</h5>
-									<div class="text">USA, New York - 1060<br>+Str. First Avenue 1</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-
-				<!-- Newsletter Block -->
-				<div class="newsletter-block col-lg-6 mb-0">
-					<div class="inner-box">
-						<div class="subscribe-form max-width550">
-							<h5 class="title">Subscribe to Newsletter</h5>
-							<form method="post" action="#">
-								<div class="form-group">
-									<input type="email" name="email" class="email" value="" placeholder="Enter Your Email Address" required="">
-									<button type="button" class="theme-btn btn-style-one dark-bg"><i class="icon fa fas fa-plus"></i><span class="btn-title">Subscribe</span></button>
-								</div>
-							</form>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
-  <!-- End Call To Action -->
 @endsection

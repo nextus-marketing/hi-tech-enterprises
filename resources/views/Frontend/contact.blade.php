@@ -56,7 +56,6 @@
 						<div class="mb-5">
 							<input name="form_botcheck" class="form-control" type="hidden" value="" />
 							<button type="submit" class="theme-btn btn-style-one" data-loading-text="Please wait..."><i class="icon fa fas fa-plus"></i> <span class="btn-title">Send message</span></button>
-							<button type="reset" class="theme-btn btn-style-one ml-25"><i class="icon fa fas fa-plus"></i> <span class="btn-title">Reset</span></button>
 						</div>
 					</form>
 					<!-- Contact Form Validation-->

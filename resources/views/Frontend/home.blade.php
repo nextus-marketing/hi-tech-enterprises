@@ -12,7 +12,7 @@
 					<div class="content-box">
 						<h2 class="sub-title animate-1"><span>Trusted Machinery Supplier</span></h2>
 						<h1 class="title animate-2"><span>Heavy Construction </br> Equipment</span>.</h1>
-						<div class="text animate-3">Buy quality excavators, loaders & earthmoving machines at competitive prices.</div>
+						</br>
 						<div class="btn-box animate-4">
 							<a href="#0" class="theme-btn btn-style-one"><i class="icon fa fas fa-plus"></i><span class="btn-title">Get a Quote</span></a>
 						</div>
