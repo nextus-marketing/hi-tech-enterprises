@@ -129,14 +129,14 @@
 						<div class="contact-info-box">
 							<span class="icon lnr-icon-envelope1"></span>
 							<span class="title">Send Email</span>
-							<a href="https://html.kodesolution.com/cdn-cgi/l/email-protection#076f626b774764686a7766697e2964686a"><span class="__cf_email__" data-cfemail="472f222b370724282a3726293e6924282a">[email&#160;protected]</span></a>
+							<a href="mailto:hitechenterprisesit@gmail.com" style="font-size:13px;">hitechenterprisesit@gmail.com</a>
 						</div>
 					</li>
 					<li>
 						<!-- Contact Info Box -->
 						<div class="contact-info-box">
 							<span class="icon lnr-icon-clock"></span>
-							<span class="title">Send Email</span>
+							<span class="title">Timing</span>
 							Mon - Sat 8:00 - 6:30, Sunday - CLOSED
 						</div>
 					</li>
