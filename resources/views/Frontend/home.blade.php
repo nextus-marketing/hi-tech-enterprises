@@ -37,8 +37,6 @@
 		</div>
 	</section>
 	<!--END Banner Section One -->
-
-
 	
 <section class="project-section">
   <div class="auto-container">
@@ -207,7 +205,6 @@
     </div>
   </div>
 </section>
-
 
 
 	<!-- Work Section -->

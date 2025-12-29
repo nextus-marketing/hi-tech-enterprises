@@ -177,3 +177,42 @@
 .call-to-action .title-box .logo-box {
     margin-bottom: 0px;
 }
+
+
+.call-float {
+    position: fixed;
+    left: 20px;
+    bottom: 20px;
+    background: #ffad2b;
+    color: #fff;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    text-align: center;
+    font-size: 26px;
+    line-height: 60px;
+    z-index: 999;
+    box-shadow: 0 0 0 rgba(248, 232, 3, 0.5);
+    animation: pulse 1.8s infinite;
+    transition: transform 0.3s ease;
+}
+
+.call-float:hover {
+    transform: scale(1.1);
+    color: #fff;
+}
+
+/* Pulse Animation */
+@keyframes pulse {
+    0% {
+        box-shadow: 0 0 0 0 rgba(245, 221, 10, 0.7);
+    }
+
+    70% {
+        box-shadow: 0 0 0 20px rgba(40, 167, 69, 0);
+    }
+
+    100% {
+        box-shadow: 0 0 0 0 rgba(40, 167, 69, 0);
+    }
+}

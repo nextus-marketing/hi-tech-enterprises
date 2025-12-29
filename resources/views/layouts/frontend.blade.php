@@ -274,6 +274,11 @@
 
 </div><!-- End Page Wrapper -->
 
+<a href="tel:+919999999999" class="call-float" title="Call Now">
+    <i class="fa fa-phone"></i>
+</a>
+
+
 <!-- Scroll To Top -->
 <div class="scroll-to-top scroll-to-target" data-target="html"><span class="fa fa-angle-up"></span></div>
 
