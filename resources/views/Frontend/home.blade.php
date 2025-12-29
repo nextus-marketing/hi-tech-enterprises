@@ -1,5 +1,5 @@
 @extends('layouts.frontend')
-@section('title') Home | Hi Tech Enterprises @endsection
+@section('title') Home | Hi-Tech Enterprises @endsection
 @section('content')
 
 	<!-- Banner Section One-->
@@ -312,9 +312,9 @@
 							<h2>Reliable Machinery Solutions That Power Your Projects</h2>
 						</div>
 
-						<div class="text2">Welcome to Hi Tech Enterprises, a forward-thinking engineering and machinery solutions company committed to driving industrial and construction excellence.</div>
+						<div class="text2">Welcome to Hi-Tech Enterprises, a forward-thinking engineering and machinery solutions company committed to driving industrial and construction excellence.</div>
 
-						<div class="text">At Hi Tech Enterprises, we specialize in delivering high-performance construction and industrial machinery designed with advanced technology, precision engineering, and uncompromising quality. Our solutions support infrastructure development, manufacturing, and large-scale projects by improving productivity, safety, and operational efficiency.</div>
+						<div class="text">At Hi-Tech Enterprises, we specialize in delivering high-performance construction and industrial machinery designed with advanced technology, precision engineering, and uncompromising quality. Our solutions support infrastructure development, manufacturing, and large-scale projects by improving productivity, safety, and operational efficiency.</div>
 
 						<div class="btn-box d-flex align-items-center">
 							<a href="#0" class="theme-btn btn-style-one"><i class="icon fa fas fa-plus"></i><span class="btn-title">Our Services</span></a>
@@ -477,11 +477,11 @@
 	<div class="auto-container">
 		<div class="title-box wow zoomIn">
 			<div class="logo-box">
-				<img src="/frontend/my-img/footer-bg.png" alt="Hi Tech Enterprises Logo" style="width:175px; height:100px;">
+				<img src="/frontend/my-img/footer-bg.png" alt="Hi-Tech Enterprises Logo" style="width:175px; height:100px;">
 			</div>
 			<h2 class="title">Driving Innovation in Industrial Machinery</h2>
 			<div class="text">
-				Hi Tech Enterprises delivers advanced construction and industrial machinery
+				Hi-Tech Enterprises delivers advanced construction and industrial machinery
 				engineered for performance, reliability, and long-term productivity.
 			</div>
 			<a href="/contact-us" class="theme-btn btn-style-one hvr-light">
@@ -512,7 +512,7 @@
 								<div class="content-column col-lg-6 col-md-12">
 									<span class="icon icon-quote"></span>
 									<div class="text">
-										Hi Tech Enterprises delivered advanced machinery that significantly improved
+										Hi-Tech Enterprises delivered advanced machinery that significantly improved
 										our project efficiency. Their technical support and timely delivery were excellent.
 									</div>
 									<div class="info-box">
@@ -538,7 +538,7 @@
 									<span class="icon icon-quote"></span>
 									<div class="text">
 										The machinery quality and performance exceeded our expectations.
-										Hi Tech Enterprises understands industrial requirements very well.
+										Hi-Tech Enterprises understands industrial requirements very well.
 									</div>
 									<div class="info-box">
 										<h4 class="name">Ankit Sharma</h4>

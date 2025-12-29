@@ -1,6 +1,6 @@
 
 @extends('layouts.frontend')
-@section('title') About Us | Hi Tech Enterprises @endsection
+@section('title') About Us | Hi-Tech Enterprises @endsection
 @section('content')
 	<!-- Start main-content -->
 	<section class="page-title" style="background-image: url(/frontend/my-img/bredcrum.jpg);">
@@ -31,9 +31,9 @@
 							<h2>Reliable Machinery Solutions That Power Your Projects</h2>
 						</div>
 
-						<div class="text2">Welcome to Hi Tech Enterprises, a forward-thinking engineering and machinery solutions company committed to driving industrial and construction excellence.</div>
+						<div class="text2">Welcome to Hi-Tech Enterprises, a forward-thinking engineering and machinery solutions company committed to driving industrial and construction excellence.</div>
 
-						<div class="text">At Hi Tech Enterprises, we specialize in delivering high-performance construction and industrial machinery designed with advanced technology, precision engineering, and uncompromising quality. Our solutions support infrastructure development, manufacturing, and large-scale projects by improving productivity, safety, and operational efficiency.</div>
+						<div class="text">At Hi-Tech Enterprises, we specialize in delivering high-performance construction and industrial machinery designed with advanced technology, precision engineering, and uncompromising quality. Our solutions support infrastructure development, manufacturing, and large-scale projects by improving productivity, safety, and operational efficiency.</div>
 
 						<div class="btn-box d-flex align-items-center">
 							<a href="#0" class="theme-btn btn-style-one"><i class="icon fa fas fa-plus"></i><span class="btn-title">Our Services</span></a>
@@ -54,10 +54,10 @@
 					<div class="inner-column">
 						<div class="image-box">
 							<figure class="image mb-0 overlay-anim wow fadeInUp"><img src="/frontend/my-img/about.jpg" alt="" style="width:494px; height:550px;"></figure>
-							<div class="experience bounce-y">
+							<!-- <div class="experience bounce-y">
 								<strong>25+</strong>
 								<div class="text">Years of<br>Experience</div>
-							</div>
+							</div> -->
 						</div>
 					</div>
 				</div>

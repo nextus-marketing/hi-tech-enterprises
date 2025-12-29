@@ -1,7 +1,7 @@
 @extends('layouts.frontend')
 
 @section('title')
-    404 Not Found |Hi Tech Enterprises
+    404 Not Found |Hi-Tech Enterprises
 @endsection
 
 @section('content')

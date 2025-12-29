@@ -1,5 +1,5 @@
 @extends('layouts.frontend')
-@section('title') Terms And Conditions | Hi Tech Enterprises @endsection
+@section('title') Terms And Conditions | Hi-Tech Enterprises @endsection
 @section('content')
 
 <!-- Start main-content -->
@@ -26,7 +26,7 @@
 						<h3 class="blog-details__title">Terms & Conditions</h3>
 
 						<p class="blog-details__text-2">
-							Welcome to <strong>Hi Tech Enterprises</strong>. By accessing or using our website,
+							Welcome to <strong>Hi-Tech Enterprises</strong>. By accessing or using our website,
 							products, and services, you agree to comply with and be bound by the following
 							Terms and Conditions. Please read them carefully before using our services.
 						</p>
@@ -47,7 +47,7 @@
 
 						<h4 class="blog-details__title">3. Pricing & Quotations</h4>
 						<p class="blog-details__text-2">
-							Any quotations provided by Hi Tech Enterprises are valid only for the specified period.
+							Any quotations provided by Hi-Tech Enterprises are valid only for the specified period.
 							Final pricing may depend on customization, taxes, delivery location, and other
 							applicable charges.
 						</p>
@@ -55,13 +55,13 @@
 						<h4 class="blog-details__title">4. Intellectual Property</h4>
 						<p class="blog-details__text-2">
 							All content on this website, including text, images, logos, graphics, and designs,
-							is the intellectual property of Hi Tech Enterprises and may not be copied, reproduced,
+							is the intellectual property of Hi-Tech Enterprises and may not be copied, reproduced,
 							or distributed without prior written consent.
 						</p>
 
 						<h4 class="blog-details__title">5. Limitation of Liability</h4>
 						<p class="blog-details__text-2">
-							Hi Tech Enterprises shall not be liable for any direct, indirect, incidental, or
+							Hi-Tech Enterprises shall not be liable for any direct, indirect, incidental, or
 							consequential damages arising from the use of our website, products, or services.
 							Users are responsible for ensuring machinery suitability for their specific applications.
 						</p>
@@ -82,7 +82,7 @@
 
 						<h4 class="blog-details__title">8. Changes to Terms</h4>
 						<p class="blog-details__text-2">
-							Hi Tech Enterprises reserves the right to update or modify these Terms and Conditions
+							Hi-Tech Enterprises reserves the right to update or modify these Terms and Conditions
 							at any time without prior notice. Continued use of the website constitutes acceptance
 							of the updated terms.
 						</p>

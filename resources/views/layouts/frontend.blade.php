@@ -36,7 +36,7 @@
 				<div class="inner-container">
 
 					<div class="top-left">
-						<div class="text">Welcome To Transportation Service Theme</div>
+						<div class="text">Welcome To Hi-Tech Enterprises</div>
 						<div class="date">Office Hours: Mon-Fri: 09:00AM-6:00PM</div>
 					</div>
 
@@ -52,7 +52,6 @@
 			</div>
 		</div>
 		<!-- Header Top -->
-
 		<!-- Header Lower -->
 		<div class="header-lower">
 			<div class="auto-container">
@@ -62,10 +61,8 @@
 					</div>
 					<!-- Main box -->
 					<div class="main-box">
-
 						<!--Nav Box-->
 						<div class="nav-outer">
-
 							<nav class="nav main-menu">
 								<ul class="navigation">
 									<li> <a href="/">Home</a></li>
@@ -239,9 +236,9 @@
 						<div class="footer-widget contact-widget">
 							<h3 class="widget-title">Contact Us</h3>
 							<ul class="user-links">
-								<li><a href="https://html.kodesolution.com/cdn-cgi/l/email-protection#6c05020a032c00030b051f090208420f0301">E: <span class="__cf_email__" data-cfemail="442d2a222b04282b232d37212a206a272b29">[email&#160;protected]</span></a></li>
-								<li><a href="tel:1234567890">P: +25 3692 3256</a></li>
-								<li><a href="tel:1-900-322-8422">T: 1-900-322-8422</a></li>
+								<li><a href="mailto:hitechenterprisesit@gmail.com"><i class="fa-regular fa-envelope"></i> hitechenterprisesit@gmail.com</a></li>
+								<li><a href="tel:1234567890"><i class="fa-solid fa-phone"></i> +25 3692 3256</a></li>
+								<li><a href="tel:1-900-322-8422"><i class="fa-solid fa-phone"></i> 1-900-322-8422</a></li>
 							</ul>
 						</div>
 					</div>
@@ -251,7 +248,6 @@
 						<div class="footer-widget address-widget">
 							<h3 class="widget-title">Our Address</h3>
 							<div class="text">365 Hilton Street KYU 3269 <br>Berlin, Germany</div>
-							<a class="btn-locations" href="/">View all locations</a>
 						</div>
 					</div>
 				</div>

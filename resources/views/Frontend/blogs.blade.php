@@ -1,5 +1,5 @@
 @extends('layouts.frontend')
-@section('title') Blogs | Hi Tech Enterprises @endsection
+@section('title') Blogs | Hi-Tech Enterprises @endsection
 @section('content')
 <!-- Start main-content -->
 	<section class="page-title" style="background-image: url(/frontend/my-img/bredcrum.jpg);">

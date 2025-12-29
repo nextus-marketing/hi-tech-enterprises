@@ -1,5 +1,5 @@
 @extends('layouts.frontend')
-@section('title') Contact Us | Hi Tech Enterprises @endsection
+@section('title') Contact Us | Hi-Tech Enterprises @endsection
 @section('content')
 <!-- Start main-content -->
 	<section class="page-title" style="background-image: url(/frontend/my-img/bredcrum.jpg);">
@@ -65,7 +65,6 @@
 						<div class="sec-title">
 							<span class="sub-title">Need any help?</span>
 							<h2>Get in touch with us</h2>
-							<div class="text">Lorem ipsum is simply free text available dolor sit amet consectetur notted adipisicing elit sed do eiusmod tempor incididunt simply dolore magna.</div>
 						</div>
 						<ul class="list-unstyled contact-details__info">
 							<li>
@@ -83,7 +82,7 @@
 								</div>
 								<div class="text">
 									<h6 class="mb-1">Write email</h6>
-									<a href="https://html.kodesolution.com/cdn-cgi/l/email-protection#4b252e2e2f232e273b0b2824263b2a253265282426"><span class="__cf_email__" data-cfemail="9cf2f9f9f8f4f9f0ecdcfff3f1ecfdf2e5b2fff3f1">[email&#160;protected]</span></a>
+									<a href="mailto:hitechenterprisesit@gmail.com">hitechenterprisesit@gmail.com</a>
 								</div>
 							</li>
 							<li>

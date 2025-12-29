@@ -1,5 +1,5 @@
 @extends('layouts.frontend')
-@section('title') Privacy Policy | Hi Tech Enterprises @endsection
+@section('title') Privacy Policy | Hi-Tech Enterprises @endsection
 @section('content')
 
 <!-- Start main-content -->
@@ -26,7 +26,7 @@
 						<h3 class="blog-details__title">Privacy Policy</h3>
 
 						<p class="blog-details__text-2">
-							At <strong>Hi Tech Enterprises</strong>, we value your privacy and are committed to
+							At <strong>Hi-Tech Enterprises</strong>, we value your privacy and are committed to
 							protecting your personal information. This Privacy Policy explains how we collect,
 							use, disclose, and safeguard your information when you visit our website or interact
 							with our services.
@@ -69,7 +69,7 @@
 
 						<h4 class="blog-details__title">6. Third-Party Links</h4>
 						<p class="blog-details__text-2">
-							Our website may contain links to third-party websites. Hi Tech Enterprises is not
+							Our website may contain links to third-party websites. Hi-Tech Enterprises is not
 							responsible for the privacy practices or content of those external sites.
 						</p>
 
@@ -82,7 +82,7 @@
 
 						<h4 class="blog-details__title">8. Changes to This Policy</h4>
 						<p class="blog-details__text-2">
-							Hi Tech Enterprises reserves the right to update this Privacy Policy at any time.
+							Hi-Tech Enterprises reserves the right to update this Privacy Policy at any time.
 							Any changes will be posted on this page, and continued use of the website implies
 							acceptance of the updated policy.
 						</p>
