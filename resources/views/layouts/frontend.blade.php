@@ -13,7 +13,7 @@
 <link rel="icon" href="/frontend/images/favicon.png" type="image/x-icon">
 <link href="/frontend/css/my.css" rel="stylesheet">
 <meta name="description" content="Hi Tech Enterprises provides advanced industrial and construction machinery solutions engineered for performance, reliability, and productivity."/>
-<meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
+<meta name="robots" content="noindex, nofollow, max-snippet:-1, max-video-preview:-1, max-image-preview:large">
 <link rel="canonical" href="{{ url()->current() }}" />
 <!-- Responsive -->
 <meta http-equiv="X-UA-Compatible" content="IE=edge">

@@ -1,5 +1,5 @@
 @extends('layouts.frontend')
-@section('title') Home | Hi-Tech Enterprises @endsection
+@section('title') Hi-Tech Enterprises @endsection
 @section('content')
 
 	<!-- Banner Section One-->
@@ -10,8 +10,8 @@
 				<div class="bg-image" style="background-image: url(/frontend/my-img/slider.jpg);"></div>
 				<div class="auto-container">
 					<div class="content-box">
-						<h2 class="sub-title animate-1"><span>Trusted Machinery Supplier</span></h2>
-						<h1 class="title animate-2"><span>Heavy Construction </br> Equipment</span>.</h1>
+						<h2 class="sub-title animate-1"><span>Trusted Machinery Supplierrrr</span></h2>
+						<h1 class="title animate-2"><span>Heavy Construction </br> Equipment</span></h1>
 						</br>
 						<div class="btn-box animate-4">
 							<a href="#0" class="theme-btn btn-style-one"><i class="icon fa fas fa-plus"></i><span class="btn-title">Get a Quote</span></a>
@@ -26,7 +26,7 @@
 				<div class="auto-container">
 					<div class="content-box">
 						<h2 class="sub-title animate-1"><span>Inspected & Ready to Work</span></h2>
-						<h1 class="title animate-2"><span>Reliable </br> Machinery</span>.</h1>
+						<h1 class="title animate-2"><span>Reliable </br> Machinery</span></h1>
 						<div class="text animate-3">Quality-tested machines for construction, mining & industrial projects.</div>
 						<div class="btn-box animate-4">
 							<a href="#0" class="theme-btn btn-style-one"><i class="icon fa fas fa-plus"></i><span class="btn-title">Get a Quote</span></a>
