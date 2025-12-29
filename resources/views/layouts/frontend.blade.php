@@ -29,7 +29,7 @@
 	<!-- Preloader -->
 	<!-- <div class="preloader"></div> -->
 
-<header class="main-header header-style-two">
+	<header class="main-header header-style-two">
 		<!-- Header Top -->
 		<div class="header-top">
 			<div class="auto-container">
