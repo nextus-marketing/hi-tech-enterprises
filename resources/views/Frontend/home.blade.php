@@ -10,7 +10,7 @@
 				<div class="bg-image" style="background-image: url(/frontend/my-img/slider.jpg);"></div>
 				<div class="auto-container">
 					<div class="content-box">
-						<h2 class="sub-title animate-1"><span>Trusted Machinery Supplierrrr</span></h2>
+						<h2 class="sub-title animate-1"><span>Trusted Machinery Supplier</span></h2>
 						<h1 class="title animate-2"><span>Heavy Construction </br> Equipment</span></h1>
 						</br>
 						<div class="btn-box animate-4">
