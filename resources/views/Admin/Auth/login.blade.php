@@ -38,7 +38,7 @@
                             <div class="col-sm-8 col-md-6 col-xl-9">
                                 <div class="text-center">
                                 <!-- Add dashbord logo here     -->
-                                <img src="/backend/dashbord-logo.png" width="180" alt="" />
+                                <img src="/backend/dashbord-logo.png" width="180" alt="dashbord" />
                                     <br /><br />
                                     <h2 class="mb-3 fs-7 fw-bolder">Welcome to My Dashbord</h2>
                                     <p class=" mb-9">Your Admin Dashboard</p>
