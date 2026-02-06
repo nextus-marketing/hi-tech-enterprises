@@ -27,7 +27,6 @@
 						<div class="content-box">
 							<ul class="post-info">
 								<li><i class="fa fa-user-circle"></i> Sowat A</li>
-								<li><i class="fa fa-comments"></i> 256 Comments</li>
 							</ul>
 							<h4 class="title"><a href="/blog-details">How Sustainable Practices Are Reshaping the...</a></h4>
 							<a href="/blog-details" class="read-more">Read More <i class="fa fa-solid fa-arrow-right"></i></a>
@@ -43,7 +42,6 @@
 						<div class="content-box">
 							<ul class="post-info">
 								<li><i class="fa fa-user-circle"></i> Sowat A</li>
-								<li><i class="fa fa-comments"></i> 256 Comments</li>
 							</ul>
 							<h4 class="title"><a href="/blog-details">How Sustainable Practices Are Reshaping the...</a></h4>
 							<a href="/blog-details" class="read-more">Read More <i class="fa fa-solid fa-arrow-right"></i></a>
@@ -59,7 +57,6 @@
 						<div class="content-box">
 							<ul class="post-info">
 								<li><i class="fa fa-user-circle"></i> Sowat A</li>
-								<li><i class="fa fa-comments"></i> 256 Comments</li>
 							</ul>
 							<h4 class="title"><a href="/blog-details">How Sustainable Practices Are Reshaping the...</a></h4>
 							<a href="/blog-details" class="read-more">Read More <i class="fa fa-solid fa-arrow-right"></i></a>
