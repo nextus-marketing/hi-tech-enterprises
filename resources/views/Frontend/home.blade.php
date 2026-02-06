@@ -1,5 +1,5 @@
 @extends('layouts.frontend')
-@section('title') Hi-Tech Enterprises @endsection
+@section('title') Hi-Tech Enterprise | Complete Heavy Equipment & Machinery Information @endsection
 @section('content')
 
 	<!-- Banner Section One-->
